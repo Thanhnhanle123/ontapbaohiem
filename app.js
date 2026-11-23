@@ -13,6 +13,23 @@ let currentQuiz = {
     isFinished: false
 };
 
+var rawQuestionBank = []
+
+// Hàm lấy dữ liệu câu hỏi từ file data.json
+async function loadQuestionBank () {
+  try {
+    const response = await fetch('data.json')
+    if (!response.ok) {
+      throw new Error(`Lỗi kết nối HTTP! Trang trạng thái: ${response.status}`)
+    }
+    return await response.json()
+
+    // Khởi chạy ứng dụng hoặc hiển thị câu hỏi tại đây
+  } catch (error) {
+    console.error('Không thể đọc file data.json:', error)
+  }
+}
+
 // LocalStorage Highscore
 function updateHighScoreDisplay() {
     const saved = localStorage.getItem('insurance_quiz_highscore') || "0/0";
@@ -47,13 +64,13 @@ function shuffleArray(array) {
 }
 
 // Start Quiz Session
-function startQuiz() {
+async function startQuiz() {
     const modeType = document.getElementById('selectMode').value;
     const studyType = document.getElementById('selectStudyType').value;
     const shuffleQ = document.getElementById('chkShuffleQ').checked;
     const shuffleOpt = document.getElementById('chkShuffleOpt').checked;
     const minutes = parseInt(document.getElementById('selectTime').value);
-
+    const masterQuestionBank = await loadQuestionBank();
     // Filter Question Pool
     let pool = [];
     if (modeType === 'exam') {

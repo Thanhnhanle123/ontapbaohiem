@@ -1,0 +1,637 @@
+[
+    {
+        "id": 1,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, đối với hợp đồng bảo hiểm trách nhiệm, trong phạm vi giới hạn trách nhiệm bảo hiểm, doanh nghiệp bảo hiểm có trách nhiệm chi trả cho người được bảo hiểm các khoản tiền nào sau đây:",
+        "options": [
+            "Khoản tiền mà theo quy định của pháp luật người được bảo hiểm có trách nhiệm bồi thường cho người thứ ba.",
+            "Các chi phí liên quan đến việc giải quyết tranh chấp về trách nhiệm đối với người thứ ba và lãi phải trả cho người thứ ba do người được bảo hiểm chậm trả tiền bồi thường theo chỉ dẫn của doanh nghiệp bảo hiểm.",
+            "A, B đúng",
+            "A, B sai"
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 2,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo đơn bảo hiểm thiệt hại vật chất xe cơ giới, khi xảy ra sự kiện bảo hiểm, doanh nghiệp bảo hiểm bồi thường cho người được bảo hiểm những trường hợp thiệt hại, chi phí nào sau đây:",
+        "options": [
+            "Đâm va, lật đổ, chìm, rơi toàn bộ xe.",
+            "Mất toàn bộ xe do trộm, cướp.",
+            "Chi phí cứu hộ và vận chuyển xe bị thiệt hại tới nơi sửa chữa gần nhất.",
+            "A, B, C đúng.",
+            "A, B  đúng."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 3,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Nguyên tắc thế quyền không được áp dụng đối với loại hợp đồng bảo hiểm nào dưới đây:",
+        "options": [
+            "Bảo hiểm hàng hải.",
+            "Bảo hiểm mọi rủi ro tài sản.",
+            "Bảo hiểm trách nhiệm dân sự.",
+            "Bảo hiểm nhân thọ."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 4,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai:",
+        "options": [
+            "Hợp đồng bảo hiểm là sự thoả thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng.",
+            "Các loại hợp đồng bảo hiểm bao gồm: Hợp đồng bảo hiểm nhân thọ; Hợp đồng bảo hiểm sức khỏe; Hợp đồng bảo hiểm tài sản; Hợp đồng bảo hiểm thiệt hại; Hợp đồng bảo hiểm trách nhiệm.",
+            "Trường hợp hợp đồng bảo hiểm có điều khoản không rõ ràng dẫn đến có cách hiểu khác nhau thì điều khoản đó được giải thích theo hướng có lợi cho doanh nghiệp bảo hiểm.",
+            "Doanh nghiệp bảo hiểm và bên mua bảo hiểm được thỏa thuận giao kết một hoặc kết hợp nhiều loại hợp đồng bảo hiểm"
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 5,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, đại lý bảo hiểm không có quyền và nghĩa vụ nào sau đây:",
+        "options": [
+            "Hưởng hoa hồng đại lý bảo hiểm, thưởng, hỗ trợ đại lý bảo hiểm theo thỏa thuận trong hợp đồng đại lý bảo hiểm",
+            "Thực hiện cam kết trong hợp đồng bảo hiểm được ký giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm.",
+            "Tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
+            "Thực hiện nghĩa vụ trong hợp đồng đại lý bảo hiểm."
+        ],
+        "answer": 1,
+        "explanation": ""
+    },
+    {
+        "id": 6,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc không bao gồm:",
+        "options": [
+            "Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới",
+            "Bảo hiểm cháy, nổ bắt buộc",
+            "Bảo hiểm khám chữa bệnh bắt buộc"
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 7,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Trong đơn bảo hiểm mọi rủi ro xây dựng/lắp đặt (CAR/EAR) của nhà tái bảo hiểm Munich Re, không có điều khoản sửa đổi, bổ sung, tổn thất gây ra đối với bên thứ ba trong thời gian bảo hành có thuộc trách nhiệm bảo hiểm không:",
+        "options": [
+            "Có.",
+            "Không."
+        ],
+        "answer": 1,
+        "explanation": ""
+    },
+    {
+        "id": 8,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Ông A tham gia bảo hiểm chi phí y tế, thời hạn 01 năm kể từ ngày 01/01/2023. Hợp đồng bảo hiểm có thỏa thuận về áp dụng thời gian chờ là 30 ngày đối với trường hợp điều trị bệnh thông thường. Ngày 15/01/2023, ông A bị đau dạ dày phải nhập viện phẫu thuật. Đợt điều trị kéo dài 07 ngày. Trường hợp này doanh nghiệp bảo hiểm chi trả quyền lợi bảo hiểm nào sau đây?",
+        "options": [
+            "Quyền lợi trợ cấp nằm viện.",
+            "Quyền lợi chi phí y tế thực tế.",
+            "Quyền lợi phẫu thuật.",
+            "Không chi trả."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 9,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng nhất về hành vi bị nghiêm cấm trong hoạt động kinh doanh bảo hiểm:",
+        "options": [
+            "Cấu kết giữa các doanh nghiệp bảo hiểm hoặc giữa doanh nghiệp bảo hiểm với bên mua bảo hiểm nhằm phân chia thị trường bảo hiểm, khép kín dịch vụ bảo hiểm.",
+            "Can thiệp trái pháp luật vào việc lựa chọn doanh nghiệp bảo hiểm.",
+            "Lợi dụng chức vụ, quyền hạn chỉ định, yêu cầu, ép buộc, ngăn cản tổ chức, cá nhân tham gia bảo hiểm.",
+            "Đe dọa, cưỡng ép giao kết hợp đồng bảo hiểm."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 10,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Ông A là người được bảo hiểm của hợp đồng bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, khi tham gia giao thông do hành vi cố ý vi phạm của ông B, ông A bị tai nạn dẫn đến thương tật toàn bộ vĩnh viễn. Trong trường hợp này, doanh nghiệp bảo hiểm sẽ giải quyết như thế nào? (Ông B không phải là người thụ hưởng của hợp đồng bảo hiểm nói trên).",
+        "options": [
+            "Không chi trả.",
+            "Chi trả 100% số tiền bảo hiểm.",
+            "Chi trả 100% số tiền bảo hiểm và yêu cầu ông B bồi hoàn."
+        ],
+        "answer": 1,
+        "explanation": ""
+    },
+    {
+        "id": 11,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng nhất về “Nguyên tắc thế quyền”:",
+        "options": [
+            "Người được bảo hiểm có trách nhiệm chuyển giao cho doanh nghiệp bảo hiểm quyền yêu cầu người thứ ba có hành vi gây thiệt hại chịu trách nhiệm bồi hoàn trong phạm vi số tiền bồi thường bảo hiểm.",
+            "Nguyên tắc thế quyền không áp dụng đối với hợp đồng bảo hiểm nhân thọ và hợp đồng bảo hiểm sức khỏe.",
+            "A, B đúng.",
+            "A, B sai."
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 12,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp đơn phương chấm dứt thực hiện hợp đồng bảo hiểm do bên mua bảo hiểm không đóng phí bảo hiểm hoặc không đóng đủ phí bảo hiểm theo thời hạn thỏa thuận hoặc sau thời gian gia hạn đóng phí, bên mua bảo hiểm vẫn phải đóng đủ phí bảo hiểm đến thời điểm đơn phương chấm dứt thực hiện hợp đồng bảo hiểm. Quy định này được áp dụng đối với:",
+        "options": [
+            "Hợp đồng bảo hiểm trách nhiệm.",
+            "Hợp đồng bảo hiểm tài sản.",
+            "Hợp đồng bảo hiểm nhân thọ (trừ hợp đồng bảo hiểm nhóm).",
+            "A,B đúng"
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 13,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Quy tắc bảo hiểm Gián đoạn kinh doanh của Hiệp hội bảo hiểm Vương quốc Anh (ABI), các hạng mục nào sau đây có thể được bảo hiểm:",
+        "options": [
+            "Lợi nhuận ròng trước thuế.",
+            "Chi phí mua nguyên vật liệu đầu vào để khôi phục hoạt động sản xuất kinh doanh.",
+            "Chi phí thuê văn phòng, điện, nước vẫn phát sinh sau khi xảy ra thiệt hại để duy trì hoạt động sản xuất kinh doanh.",
+            "A, B đúng.",
+            "A, C đúng."
+        ],
+        "answer": 4,
+        "explanation": ""
+    },
+    {
+        "id": 14,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Mức miễn thường là phần tổn thất và/hoặc chi phí do sự kiện bảo hiểm gây ra mà người được bảo hiểm phải tự chịu. Mức miễn thường được áp dụng cho (chọn phương án đúng nhất):",
+        "options": [
+            "Bảo hiểm tài sản.",
+            "Bảo hiểm nhân thọ.",
+            "Bảo hiểm y tế.",
+            "A, C đúng."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 15,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Chọn phương án đúng về quyền, nghĩa vụ của doanh nghiệp bảo hiểm:",
+        "options": [
+            "Có quyền thay đổi người thụ hưởng bảo hiểm.",
+            "Có trách nhiệm điền thông tin vào giấy yêu cầu bảo hiểm.",
+            "Trực tiếp chi trả hoa hồng bảo hiểm cho người được bảo hiểm.",
+            "Cung cấp cho bên mua bảo hiểm bằng chứng giao kết hợp đồng bảo hiểm theo quy định tại Luật Kinh doanh bảo hiểm."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 16,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật kinh doanh bảo hiểm, câu trả lời nào sau đây là đúng nhất về hợp đồng bảo hiểm trùng?",
+        "options": [
+            "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết hợp đồng bảo hiểm với hai doanh nghiệp bảo hiểm trở lên để bảo hiểm cho cùng một đối tượng bảo hiểm",
+            "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết nhiều hợp đồng bảo hiểm với một doanh nghiệp bảo hiểm để bảo hiểm cho cùng một đối tượng bảo hiểm",
+            "Hợp đồng bảo hiểm trùng là trường hợp có từ hai hợp đồng bảo hiểm trở lên để bảo hiểm cho cùng phạm vi, đối tượng, thời hạn và sự kiện bảo hiểm mà tổng số tiền bảo hiểm vượt quá giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm.",
+            "A, B, C sai"
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 17,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai:",
+        "options": [
+            "Luật kinh doanh bảo hiểm quy định về tổ chức và hoạt động kinh doanh bảo hiểm; quyền và nghĩa vụ của tổ chức, cá nhân tham gia bảo hiểm; quản lý nhà nước về hoạt động kinh doanh bảo hiểm.",
+            "Nhà nước bảo đảm quyền, lợi ích hợp pháp của các tổ chức, cá nhân tham gia bảo hiểm và các tổ chức hoạt động kinh doanh bảo hiểm.",
+            "Tổ chức, cá nhân tại Việt Nam có nhu cầu tham gia bảo hiểm có thể tham gia bảo hiểm tại bất kỳ doanh nghiệp bảo hiểm nào hoạt động tại Việt Nam hoặc nước ngoài."
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 18,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm không được ủy quyền cho đại lý bảo hiểm thực hiện hoạt động nào dưới đây:",
+        "options": [
+            "iới thiệu, chào bán sản phẩm bảo hiểm.",
+            "Thu xếp giao kết hợp đồng bảo hiểm.",
+            "Thu phí bảo hiểm.",
+            "Thu xếp tái bảo hiểm."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 19,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây là đúng nhất về điều kiện đối với cá nhân hoạt động đại lý bảo hiểm:",
+        "options": [
+            "Thường trú tại Việt Nam; Có năng lực hành vi dân sự đầy đủ; Có chứng chỉ đại lý bảo hiểm phù hợp theo quy định của pháp luật về hoạt động kinh doanh bảo hiểm",
+            "Là công dân Việt Nam thường trú tại Việt Nam; Có chứng chỉ đại lý bảo hiểm phù hợp theo quy định của pháp luật về hoạt động kinh doanh bảo hiểm",
+            "Là công dân Việt Nam thường trú tại Việt Nam; Có năng lực hành vi dân sự đầy đủ; Có chứng chỉ đại lý bảo hiểm phù hợp theo quy định của pháp luật về hoạt động kinh doanh bảo hiểm",
+            "Là công dân Việt Nam thường trú tại Việt Nam; Có năng lực hành vi dân sự đầy đủ; có bằng đại học hoặc trên đại học; có chứng chỉ đại lý bảo hiểm phù hợp theo quy định của pháp luật về hoạt động kinh doanh bảo hiểm"
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 20,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Khoản tiền mà bên mua bảo hiểm đóng cho doanh nghiệp bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm là:",
+        "options": [
+            "Số tiền bảo hiểm.",
+            "Phí bảo hiểm.",
+            "iá trị bảo hiểm.",
+            "Số tiền bồi thường."
+        ],
+        "answer": 1,
+        "explanation": ""
+    },
+    {
+        "id": 21,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, đáp án nào đúng khi điền vào chỗ ___ dưới đây: \"________là số tiền mà bên mua bảo hiểm và doanh nghiệp bảo hiểm thỏa thuận trong hợp đồng bảo hiểm để bảo hiểm cho tài sản và thiệt hại trên cơ sở yêu cầu của bên mua bảo hiểm\".",
+        "options": [
+            "Phí bảo hiểm",
+            "Số tiền bồi thường",
+            "Số tiền bảo hiểm",
+            "iá trị bảo hiểm"
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 22,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng nhất về bảo hiểm cháy, nổ bắt buộc:",
+        "options": [
+            "Là sản phẩm bảo hiểm do Chính phủ quy định chi tiết về điều kiện bảo hiểm, mức phí bảo hiểm",
+            "Là sản phẩm bảo hiểm do Chính phủ quy định chi tiết về điều kiện, số tiền bảo hiểm tối thiểu",
+            "Là sản phẩm bảo hiểm do Chính phủ quy định chi tiết về mức phí bảo hiểm, số tiền bảo hiểm tối thiểu",
+            "Là sản phẩm bảo hiểm do Chính phủ quy định chi tiết về điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu"
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 23,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, bên nhận phí bảo hiểm để bồi thường, trả tiền bảo hiểm khi xảy ra sự kiện bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm là:",
+        "options": [
+            "Doanh nghiệp môi giới bảo hiểm",
+            "Đại lý bảo hiểm.",
+            "Doanh nghiệp bảo hiểm.",
+            "A, B, C đúng"
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 24,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, đại lý bảo hiểm được thực hiện các hoạt động nào sau đây theo ủy quyền của doanh nghiệp bảo hiểm:",
+        "options": [
+            "Tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm.",
+            "Thay mặt doanh nghiệp bảo hiểm ký kết hợp đồng với bên mua bảo hiểm.",
+            "A, B đúng."
+        ],
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 25,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, hoa hồng đại lý bảo hiểm được trả cho đối tượng nào dưới đây:",
+        "options": [
+            "Bên mua bảo hiểm.",
+            "Người thụ hưởng.",
+            "Đại lý bảo hiểm.",
+            "A, B, C đúng."
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 26,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Bồi thường bảo hiểm trách nhiệm dân sự của chủ xe đối với hàng hóa trên xe/vụ tổn thất được hiểu là:",
+        "options": [
+            "Trong mọi trường hợp, tổng số tiền bồi thường không được vượt quá mức trách nhiệm bảo hiểm/vụ tổn thất",
+            "Không giới hạn số lượng các vụ tổn thất trong suốt thời hạn bảo hiểm.",
+            "Trường hợp trong thời hạn bảo hiểm xảy ra nhiều vụ tổn thất, tổng số tiền bồi thường hàng hóa bị tổn thất trong suốt thời hạn bảo hiểm không vượt quá tổng mức trách nhiệm bảo hiểm.",
+            "A, B đúng."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 27,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp bên mua bảo hiểm có hành vi lừa dối khi giao kết hợp đồng bảo hiểm (trừ trường hợp bên mua bảo hiểm vi phạm nghĩa vụ cung cấp thông tin) thì:",
+        "options": [
+            "Hợp đồng bảo hiểm vô hiệu. Doanh nghiệp bảo hiểm và bên mua bảo hiểm hoàn trả cho nhau những gì đã nhận. Bên có lỗi gây thiệt hại phải bồi thường.",
+            "Doanh nghiệp bảo hiểm có quyền đơn phương chấm dứt thực hiện hợp đồng bảo hiểm và thu phí đến thời điểm phát hiện ra hành vi lừa dối của bên mua bảo hiểm.",
+            "Doanh nghiệp bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm.",
+            "A, B, C đúng."
+        ],
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 28,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Chọn phương án đúng nhất về trách nhiệm bồi thường thiệt hại theo hợp đồng:",
+        "options": [
+            "Được xác định trên cơ sở các nghĩa vụ dân sự hình thành theo thỏa thuận giữa các bên trong một hợp đồng.",
+            "Là trách nhiệm phát sinh trên cơ sở các nghĩa vụ dân sự do Bộ luật dân sự quy định cho các chủ thể.",
+            "Bên có nghĩa vụ dân sự không thực hiện hoặc thực hiện không đúng nghĩa vụ dân sự đã cam kết trong hợp đồng thì phải bồi thường cho bên kia.",
+            "A, C đúng.",
+            "B, C đúng."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 29,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây đúng nhất về nguyên tắc trung thực tuyệt đối:",
+        "options": [
+            "Chỉ áp dụng cho doanh nghiệp bảo hiểm.",
+            "Chỉ áp dụng cho bên mua bảo hiểm.",
+            "Là nghĩa vụ chung của cả doanh nghiệp bảo hiểm và bên mua bảo hiểm."
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 30,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai:",
+        "options": [
+            "Bên mua bảo hiểm là tổ chức, cá nhân giao kết hợp đồng bảo hiểm với doanh nghiệp bảo hiểm và đóng phí bảo hiểm.",
+            "Người thụ hưởng là tổ chức, cá nhân được bên mua bảo hiểm hoặc người được bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+            "Bên mua bảo hiểm và người được bảo hiểm không thể là người thụ hưởng.",
+            "Người được bảo hiểm là tổ chức, cá nhân có tài sản, trách nhiệm dân sự, sức khỏe, tính mạng, nghĩa vụ hoặc lợi ích kinh tế được bảo hiểm theo hợp đồng bảo hiểm."
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 31,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng nhất về nghĩa vụ của doanh nghiệp bảo hiểm trong giao kết và thực hiện hợp đồng bảo hiểm:",
+        "options": [
+            "iải thích rõ ràng, đầy đủ cho bên mua bảo hiểm về quyền lợi bảo hiểm, điều khoản loại trừ trách nhiệm bảo hiểm, quyền và nghĩa vụ của bên mua bảo hiểm khi giao kết hợp đồng bảo hiểm.",
+            "Yêu cầu bên mua bảo hiểm cung cấp đầy đủ thông tin liên quan đến giao kết hợp đồng",
+            "Phối hợp với bên mua bảo hiểm để giải quyết yêu cầu của người thứ ba đòi bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm khi xảy ra sự kiện bảo hiểm.",
+            "A, B đúng.",
+            "A, C đúng."
+        ],
+        "answer": 4,
+        "explanation": ""
+    },
+    {
+        "id": 32,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn phải bồi thường, trả tiền bảo hiểm cho bên mua bảo hiểm kể từ ngày nhận được đầy đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm (trường hợp không có thỏa thuận về thời hạn bồi thường, trả tiền bảo hiểm) là:",
+        "options": [
+            "15 ngày",
+            "30 ngày",
+            "45 ngày",
+            "60 ngày"
+        ],
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 33,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm có các quyền nào trong hoạt động đại lý bảo hiểm:",
+        "options": [
+            "Quyết định mức chi trả hoa hồng đại lý bảo hiểm trong hợp đồng đại lý bảo hiểm không vượt quá mức tối đa theo quy định của Bộ trưởng Bộ Tài chính",
+            "Nhận và quản lý tiền ký quỹ hoặc tài sản thế chấp của đại lý bảo hiểm nếu có thỏa thuận trong hợp đồng đại lý bảo hiểm",
+            "Yêu cầu đại lý bảo hiểm thanh toán phí bảo hiểm thu được theo thỏa thuận trong hợp đồng bảo hiểm.",
+            "A, B, C đúng"
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 34,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, trong hợp đồng bảo hiểm sức khỏe, trường hợp người được bảo hiểm bị thương tật hoặc đau ốm do hành vi trực tiếp hoặc gián tiếp của người thứ ba gây ra thì:",
+        "options": [
+            "Doanh nghiệp bảo hiểm vẫn có nghĩa vụ bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm và được quyền yêu cầu người thứ ba bồi hoàn khoản tiền mà doanh nghiệp bảo hiểm đã trả cho người thụ hưởng",
+            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường và yêu cầu người thứ ba bồi thường trực tiếp cho người được bảo hiểm.",
+            "Doanh nghiệp bảo hiểm vẫn có nghĩa vụ bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm mà không có quyền yêu cầu người thứ ba bồi hoàn khoản tiền mà doanh nghiệp bảo hiểm đã trả cho người thụ hưởng."
+        ],
+        "answer": 2,
+        "explanation": ""
+    },
+    {
+        "id": 35,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Chọn phương án đúng nhất về “Nguyên tắc đóng góp bồi thường”:",
+        "options": [
+            "Khi đối tượng bảo hiểm bị tổn thất thuộc phạm vi bảo hiểm, các doanh nghiệp bảo hiểm có nghĩa vụ đóng góp bồi thường căn cứ theo tỷ lệ phần trách nhiệm bảo hiểm đã nhận bảo hiểm.",
+            "Tổng số tiền bồi thường không vượt quá thiệt hại thực tế của người được bảo hiểm trong sự kiện bảo hiểm.",
+            "Nguyên tắc này không áp dụng cho bảo hiểm nhân thọ.",
+            "A, B, C đúng."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 36,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây đúng:",
+        "options": [
+            "Phí bảo hiểm là khoản tiền mà bên mua bảo hiểm phải đóng cho doanh nghiệp bảo hiểm theo quy định của pháp luật hoặc do các bên thỏa thuận trong hợp đồng bảo hiểm",
+            "Người được bảo hiểm là tổ chức, cá nhân giao kết hợp đồng bảo hiểm với doanh nghiệp bảo hiểm và đóng phí bảo hiểm",
+            "A,B đúng"
+        ],
+        "answer": 0,
+        "explanation": ""
+    },
+    {
+        "id": 37,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Khi giao kết hợp đồng bảo hiểm, doanh nghiệp bảo hiểm có quyền và nghĩa vụ:",
+        "options": [
+            "Có quyền yêu cầu bên mua bảo hiểm cung cấp đầy đủ, trung thực mọi thông tin liên quan đến việc giao kết hợp đồng bảo hiểm.",
+            "Có quyền thu phí bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+            "Có nghĩa vụ giải thích rõ ràng, đầy đủ cho bên mua bảo hiểm về quyền lợi bảo hiểm, điều khoản loại trừ trách nhiệm bảo hiểm, quyền và nghĩa vụ của bên mua bảo hiểm.",
+            "A, B, C đúng."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 38,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, nguyên tắc thế quyền không được áp dụng trong loại hợp đồng bảo hiểm nào sau đây:",
+        "options": [
+            "Bảo hiểm tài sản.",
+            "Bảo hiểm thiệt hại.",
+            "Bảo hiểm trách nhiệm.",
+            "Bảo hiểm nhân thọ."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 39,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, bên mua bảo hiểm không có nghĩa vụ:",
+        "options": [
+            "Đóng phí bảo hiểm đầy đủ, đúng hạn theo thỏa thuận trong hợp đồng bảo hiểm",
+            "Kê khai đầy đủ, trung thực mọi thông tin có liên quan đến hợp đồng bảo hiểm theo yêu cầu của doanh nghiệp bảo hiểm.",
+            "Thông báo cho doanh nghiệp bảo hiểm những trường hợp có thể làm tăng rủi ro hoặc giảm rủi ro hoặc làm phát sinh thêm trách nhiệm của doanh nghiệp bảo hiểm trong quá trình thực hiện hợp đồng bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+            "Thanh toán các khoản chi phí liên quan đến việc đánh giá rủi ro được bảo hiểm."
+        ],
+        "answer": 3,
+        "explanation": ""
+    },
+    {
+        "id": 40,
+        "topic": "general",
+        "sets": [
+            "de2"
+        ],
+        "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm có quyền đơn phương chấm dứt thực hiện hợp đồng bảo hiểm trong trường hợp nào sau đây:",
+        "options": [
+            "Bên mua bảo hiểm không có quyền lợi có thể được bảo hiểm.",
+            "Bên mua bảo hiểm không còn quyền lợi có thể được bảo hiểm.",
+            "Bên mua bảo hiểm không đóng phí bảo hiểm hoặc không đóng đủ phí bảo hiểm theo thời hạn thỏa thuận hoặc sau thời gian gia hạn đóng phí.",
+            "B, C đúng."
+        ],
+        "answer": 2,
+        "explanation": ""
+    }
+]

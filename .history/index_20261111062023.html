@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ôn Luyện Trắc Nghiệm Luật & Nghiệp Vụ Bảo Hiểm</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="app-header">
+    <div class="header-content">
+        <div>
+            <div class="brand-title">🛡️ ÔN THI BẢO HIỂM PNT CƠ BẢN</div>
+            <div class="brand-subtitle">Ngân hàng câu hỏi trắc nghiệm Luật Kinh doanh bảo hiểm & Nghiệp vụ</div>
+        </div>
+        <div class="high-score-badge" id="highScoreBadge">
+            🏆 Điểm cao nhất: <span id="highScoreVal">0/0</span>
+        </div>
+    </div>
+</header>
+
+<div class="main-container" id="mainContainer">
+    
+    <!-- 1. SETUP SCREEN -->
+    <div id="setupScreen" class="card">
+        <h2 class="setup-title">Cấu hình chế độ ôn luyện</h2>
+        
+        <form id="setupForm" onsubmit="event.preventDefault(); startQuiz();">
+            <div class="form-grid">
+                <div class="form-group">
+                    <label for="selectMode">Hình thức ôn luyện:</label>
+                    <select id="selectMode" onchange="handleModeChange()">
+                        <option value="exam">Luyện đề thi chuẩn (Đề 1, Đề 2, Đề 3, Đề 4)</option>
+                        <option value="topic">Ôn tập theo Chủ đề / Chuyên mục</option>
+                        <option value="random">Luyện câu hỏi Ngẫu nhiên</option>
+                    </select>
+                </div>
+
+                <div class="form-group" id="groupSetDetail">
+                    <label for="selectSet">Chọn Đề thi:</label>
+                    <select id="selectSet">
+                        <option value="de1">Đề số 1 (40 câu)</option>
+                        <option value="de2">Đề số 2 (40 câu)</option>
+                        <option value="de3">Đề số 3 (40 câu)</option>
+                        <option value="de4">Đề số 4 (40 câu)</option>
+                    </select>
+                </div>
+
+                <div class="form-group hidden" id="groupTopicDetail">
+                    <label for="selectTopic">Chọn Chủ đề kiến thức:</label>
+                    <select id="selectTopic">
+                        <option value="general">1. Kiến thức chung về bảo hiểm</option>
+                        <option value="contract">2. Hợp đồng bảo hiểm & Nguyên tắc</option>
+                        <option value="health">3. Bảo hiểm Sức khỏe & Tai nạn</option>
+                        <option value="vehicle">4. Bảo hiểm Xe cơ giới</option>
+                        <option value="mandatory">5. Bảo hiểm Bắt buộc</option>
+                        <option value="property">6. Bảo hiểm Tài sản & Kỹ thuật</option>
+                        <option value="liability">7. Bảo hiểm Trách nhiệm & Thiệt hại</option>
+                        <option value="agency">8. Đại lý bảo hiểm & Quy định pháp luật</option>
+                    </select>
+                </div>
+
+                <div class="form-group hidden" id="groupCountDetail">
+                    <label for="selectCount">Số lượng câu hỏi ngẫu nhiên:</label>
+                    <select id="selectCount">
+                        <option value="10">10 câu hỏi</option>
+                        <option value="20">20 câu hỏi</option>
+                        <option value="40" selected>40 câu hỏi</option>
+                        <option value="60">60 câu hỏi</option>
+                        <option value="all">Tất cả ngân hàng câu hỏi</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="selectStudyType">Chế độ làm bài:</label>
+                    <select id="selectStudyType">
+                        <option value="learn">Chế độ Học tập (Hiện ngay giải thích & đáp án)</option>
+                        <option value="test">Chế độ Thi thử (Đếm ngược thời gian, chấm điểm sau)</option>
+                    </select>
+                </div>
+
+                <div class="form-group" id="groupTimer">
+                    <label for="selectTime">Thời gian làm bài (Phút):</label>
+                    <select id="selectTime">
+                        <option value="30">30 Phút</option>
+                        <option value="45" selected>45 Phút</option>
+                        <option value="60">60 Phút</option>
+                        <option value="0">Không giới hạn</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="checkbox-group">
+                <label class="checkbox-label">
+                    <input type="checkbox" id="chkShuffleQ" checked> Xáo trộn danh sách câu hỏi
+                </label>
+                <label class="checkbox-label">
+                    <input type="checkbox" id="chkShuffleOpt" checked> Xáo trộn đáp án A, B, C, D
+                </label>
+            </div>
+
+            <button type="submit" class="btn-start">🚀 BẮT ĐẦU LÀM BÀI</button>
+        </form>
+    </div>
+
+    <!-- 2. QUIZ SCREEN MAIN AREA -->
+    <div id="quizScreen" class="hidden">
+        <div class="quiz-top-bar">
+            <div>
+                <span class="quiz-mode-badge" id="badgeMode">Chế độ Thi thử</span>
+                <span id="txtProgress" class="progress-text">Tiến độ: 0/0</span>
+            </div>
+            <div class="timer-box" id="timerBox">
+                ⏱️ <span id="timeDisplay">45:00</span>
+            </div>
+        </div>
+
+        <div id="questionsContainer"></div>
+    </div>
+
+    <!-- 3. NAVIGATOR SIDEBAR -->
+    <div id="navSidebar" class="nav-panel hidden">
+        <div class="nav-title">
+            <span>Danh sách câu hỏi</span>
+            <span id="flaggedCountTxt" class="flagged-count">🚩 0</span>
+        </div>
+        <div class="grid-navigator" id="gridNavigator"></div>
+
+        <div class="progress-container">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+    </div>
+
+    <!-- 4. RESULT SCREEN -->
+    <div id="resultScreen" class="card hidden">
+        <div class="result-summary-card">
+            <h2 class="result-heading">KẾT QUẢ BÀI THI</h2>
+            <div class="score-circle">
+                <div class="score-number" id="finalScorePct">0%</div>
+                <div class="score-total" id="finalScoreText">0 / 0 Câu</div>
+            </div>
+
+            <div class="result-stats">
+                <div class="stat-item">
+                    <div class="stat-val stat-correct" id="statCorrect">0</div>
+                    <div class="stat-label">Số câu đúng</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-val stat-incorrect" id="statIncorrect">0</div>
+                    <div class="stat-label">Số câu sai</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-val stat-skipped" id="statSkipped">0</div>
+                    <div class="stat-label">Chưa trả lời</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-val" id="statTime">00:00</div>
+                    <div class="stat-label">Thời gian làm</div>
+                </div>
+            </div>
+
+            <div class="result-actions">
+                <button class="btn-action btn-outline" onclick="filterWrongAnswers()">🔍 Chỉ xem câu trả lời sai</button>
+                <button class="btn-action btn-secondary" onclick="showAllAnswers()">👁️ Xem toàn bộ đáp án</button>
+                <button class="btn-action btn-submit" onclick="restartSetup()">🔄 Luyện đề mới</button>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Sticky Actions Footer -->
+<div class="bottom-actions hidden" id="bottomActions">
+    <button class="btn-action btn-secondary" onclick="restartSetup()">Hủy làm bài</button>
+    <button class="btn-action btn-submit" id="btnSubmitQuiz" onclick="submitQuiz()">Nộp Bài Thi</button>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
