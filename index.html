@@ -21,11 +21,11 @@
 </header>
 
 <div class="main-container" id="mainContainer">
-    
+
     <!-- 1. SETUP SCREEN -->
-    <div id="setupScreen" class="card">
+    <section id="setupScreen" class="card">
         <h2 class="setup-title">Cấu hình chế độ ôn luyện</h2>
-        
+
         <form id="setupForm" onsubmit="event.preventDefault(); startQuiz();">
             <div class="form-grid">
                 <div class="form-group">
@@ -34,6 +34,7 @@
                         <option value="exam">Luyện đề thi chuẩn (Đề 1, Đề 2, Đề 3, Đề 4)</option>
                         <option value="topic">Ôn tập theo Chủ đề / Chuyên mục</option>
                         <option value="random">Luyện câu hỏi Ngẫu nhiên</option>
+                        <option value="wrong_review" id="optWrongReview">📌 Luyện lại các câu làm sau (0 câu)</option>
                     </select>
                 </div>
 
@@ -72,6 +73,16 @@
                     </select>
                 </div>
 
+                <div class="form-group hidden" id="groupWrongDetail">
+                    <label>Danh sách câu làm sau:</label>
+                    <div class="wrong-pool-info">
+                        <span id="wrongPoolCountText">Đang có 0 câu hỏi cần luyện lại.</span>
+                        <button type="button" class="btn-clear-wrong" id="btnClearWrongPool" onclick="clearWrongQuestionsPool()">
+                            🗑️ Xóa danh sách
+                        </button>
+                    </div>
+                </div>
+
                 <div class="form-group">
                     <label for="selectStudyType">Chế độ làm bài:</label>
                     <select id="selectStudyType">
@@ -102,25 +113,30 @@
 
             <button type="submit" class="btn-start">🚀 BẮT ĐẦU LÀM BÀI</button>
         </form>
-    </div>
+    </section>
 
     <!-- 2. QUIZ SCREEN MAIN AREA -->
-    <div id="quizScreen" class="hidden">
+    <section id="quizScreen" class="hidden">
         <div class="quiz-top-bar">
             <div>
                 <span class="quiz-mode-badge" id="badgeMode">Chế độ Thi thử</span>
                 <span id="txtProgress" class="progress-text">Tiến độ: 0/0</span>
             </div>
-            <div class="timer-box" id="timerBox">
-                ⏱️ <span id="timeDisplay">45:00</span>
+            <div class="timer-controls">
+                <div class="timer-box" id="timerBox">
+                    ⏱️ <span id="timeDisplay">45:00</span>
+                </div>
+                <button type="button" class="btn-pause hidden" id="btnTogglePause" onclick="toggleTimerPause()">
+                    ⏸️ Tạm dừng
+                </button>
             </div>
         </div>
 
         <div id="questionsContainer"></div>
-    </div>
+    </section>
 
     <!-- 3. NAVIGATOR SIDEBAR -->
-    <div id="navSidebar" class="nav-panel hidden">
+    <aside id="navSidebar" class="nav-panel hidden">
         <div class="nav-title">
             <span>Danh sách câu hỏi</span>
             <span id="flaggedCountTxt" class="flagged-count">🚩 0</span>
@@ -130,10 +146,10 @@
         <div class="progress-container">
             <div class="progress-bar" id="progressBar"></div>
         </div>
-    </div>
+    </aside>
 
     <!-- 4. RESULT SCREEN -->
-    <div id="resultScreen" class="card hidden">
+    <section id="resultScreen" class="card hidden">
         <div class="result-summary-card">
             <h2 class="result-heading">KẾT QUẢ BÀI THI</h2>
             <div class="score-circle">
@@ -161,19 +177,20 @@
             </div>
 
             <div class="result-actions">
-                <button class="btn-action btn-outline" onclick="filterWrongAnswers()">🔍 Chỉ xem câu trả lời sai</button>
-                <button class="btn-action btn-secondary" onclick="showAllAnswers()">👁️ Xem toàn bộ đáp án</button>
-                <button class="btn-action btn-submit" onclick="restartSetup()">🔄 Luyện đề mới</button>
+                <button type="button" class="btn-action btn-outline" onclick="filterWrongAnswers()">🔍 Chỉ xem câu trả lời sai</button>
+                <button type="button" class="btn-action btn-secondary" onclick="showAllAnswers()">👁️ Xem toàn bộ đáp án</button>
+                <button type="button" class="btn-action btn-submit" id="btnPracticeWrongResult" onclick="startWrongQuestionsPractice()">📌 Luyện lại câu làm sau</button>
+                <button type="button" class="btn-action btn-secondary" onclick="restartSetup()">🔄 Luyện đề mới</button>
             </div>
         </div>
-    </div>
+    </section>
 
 </div>
 
 <!-- Sticky Actions Footer -->
 <div class="bottom-actions hidden" id="bottomActions">
-    <button class="btn-action btn-secondary" onclick="restartSetup()">Hủy làm bài</button>
-    <button class="btn-action btn-submit" id="btnSubmitQuiz" onclick="submitQuiz()">Nộp Bài Thi</button>
+    <button type="button" class="btn-action btn-secondary" onclick="restartSetup()">Hủy làm bài</button>
+    <button type="button" class="btn-action btn-submit" id="btnSubmitQuiz" onclick="submitQuiz()">Nộp Bài Thi</button>
 </div>
 
 <script src="app.js"></script>

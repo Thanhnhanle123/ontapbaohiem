@@ -5,7 +5,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, chi phí để xác định mức độ thiệt hại do đối tượng nào sau đây chi trả:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, chi phí để xác định mmức độ thiệt hại do đối tượng nào sau đây chi trả:",
         "options": [
             "Doanh nghiệp bảo hiểm",
             "Bên mua bảo hiểm",
@@ -74,7 +74,7 @@
         "options": [
             "Hưởng hoa hồng đại lý bảo hiểm, thưởng, hỗ trợ đại lý bảo hiểm theo thỏa thuận trong hợp đồng đại lý bảo hiểm",
             "Thực hiện cam kết trong hợp đồng bảo hiểm được ký giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm.",
-            "Tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
+            "Tư vấn, gGiới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
             "Thực hiện nghĩa vụ trong hợp đồng đại lý bảo hiểm."
         ],
         "answer": 1,
@@ -101,7 +101,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Theo đ n bảo hiểm m i rủi ro xây dựng (CA ) của nhà tái bảo hiểm  unich  e, t n thất gián tiếp có nguyên nhân do khuyết tật của vật liệu, tay nghề k m có thuộc trách nhiệm bảo hiểm không:",
+        "question": "Theo đơn bảo hiểm mọi rủi ro xây dựng (CAR) của nhà tái bảo hiểm Munich Re, tổn thất gián tiếp có nguyên nhân do khuyết tật của vật liệu, tay nghề kém có thuộc trách nhiệm bảo hiểm không:",
         "options": [
             "Có.",
             "Không."
@@ -115,7 +115,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Khi tham gia bảo hiểm sức khỏe với quyền lợi bảo hiểm tai nạn, người được bảo hiểm không may bị tai nạn khi tham gia vào các cuộc thi đấu có tính chất chuyên nghiệp như đua ngựa, đua xe (Hợp đồng bảo hiểm không có điều khoản sửa đ i b  sung về bảo hiểm rủi ro tai nạn khi tham gia vào các cuộc thi đấu có tính chất chuyên nghiệp). Phư ng án giải quyết quyền lợi bảo hiểm nào sau đây đúng:",
+        "question": "Khi tham gia bảo hiểm sức khỏe với quyền lợi bảo hiểm tai nạn, người được bảo hiểm không may bị tai nạn khi tham gia vào các cuộc thi đấu có tính chất chuyên nghiệp như đua ngựa, đua xe (Hợp đồng bảo hiểm không có điều khoản sửa đổi bổ sung về bảo hiểm rủi ro tai nạn khi tham gia vào các cuộc thi đấu có tính chất chuyên nghiệp). Phương án giải quyết quyền lợi bảo hiểm nào sau đây đúng:",
         "options": [
             "Số tiền bảo hiểm theo tỷ lệ thương tật do tai nạn.",
             "Chi phí y tế điều trị tai nạn.",
@@ -165,7 +165,7 @@
         ],
         "question": "ủi ro được coi là rủi ro có thể được bảo hiểm khi đáp ứng các điều kiện sau:",
         "options": [
-            "Tổn thất phải ngẫu nhiên, bất ngờ.",
+            "Tổn thất phải ngẫu nhiên, bấtổngờ.",
             "Phải đo được, định lượng được về tài chính.",
             "Phải có số đông.",
             "Không trái với chuẩn mực đạo đức xã hội.",
@@ -196,10 +196,10 @@
         "sets": [
             "de1"
         ],
-        "question": "Nội dung nào sau đây không thuộc đối tượng bảo hiểm của Đ n bảo hiểm “Gián đoạn kinh doanh” của Hiệp hội bảo hiểm Vư ng quốc Anh (ABI):",
+        "question": "Nội dung nào sau đây không thuộc đối tượng bảo hiểm của Đơn bảo hiểm “Gián đoạn kinh doanh” của Hiệp hội bảo hiểm Vư ng quốc Anh (ABI):",
         "options": [
             "Chi phí cố định.",
-            "Chi phí biến đ i.",
+            "Chi phí biến đổi.",
             "Lợi nhuận kinh doanh.",
             "Chi phí thuê nhà xưởng do hậu quả của tổn thất theo thỏa thuận trong hợp đồng bảo hiểm."
         ],
@@ -228,7 +228,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Ch n phư ng án sai về các bên trong hợp đồng bảo hiểm:",
+        "question": "Chọn phương án sai về các bên trong hợp đồng bảo hiểm:",
         "options": [
             "Bên mua bảo hiểm.",
             "Doanh nghiệp bảo hiểm.",
@@ -246,10 +246,10 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp các bên giao kết hợp đồng bảo hiểm trùng, khi xảy ra sự kiện bảo hiểm thì:",
         "options": [
-            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tư ng ứng theo tỷ lệ giữa số tiền bảo hiểm đã thoả thuận trên t ng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. T ng số tiền bồi thường của các hợp đồng bảo hiểm không vượt quá giá trị thiệt hại thực tế của tài sản.",
-            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tương ứng theo tỷ lệ giữa số tiền bảo hiểm đã thoả thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm có thể lớn hơn giá trị thiệt hại thực tế của tài sản.",
+            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tư ng ứng theo tỷ lệ giữa số tiền bảo hiểm đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm không vượt quá giá trị thiệt hại thực tế của tài sản.",
+            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tương ứng theo tỷ lệ giữa số tiền bảo hiểm đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm có thể lớn hơn giá trị thiệt hại thực tế của tài sản.",
             "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được doanh nghiệp bảo hiểm chi trả theo tỷ lệ bằng nhau trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm không vượt quá giá trị thiệt hại thực tế của tài sản.",
-            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được chi trả theo thiệt hại thực tế đã thoả thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết."
+            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được chi trả theo thiệt hại thực tế đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết."
         ],
         "answer": 0,
         "explanation": ""
@@ -260,9 +260,9 @@
         "sets": [
             "de1"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, t  chức kinh doanh bảo hiểm là:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, tổ chức kinh doanh bảo hiểm là:",
         "options": [
-            "Doanh nghiệp bảo hiểm, t  chức tư ng hỗ cung cấp bảo hiểm vi mô, chi nhánh doanh nghiệp bảo hiểm phi nhân th  nước ngoài",
+            "Doanh nghiệp bảo hiểm, tổ chức tư ng hỗ cung cấp bảo hiểm vi mô, chi nhánh doanh nghiệp bảo hiểm phi nhân th nước ngoài",
             "Doanh nghiệp bảo hiểm, tổ chức tương hỗ cung cấp bảo hiểm vi mô, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, hợp tác xã bảo hiểm",
             "Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, hợp tác xã bảo hiểm"
         ],
@@ -294,7 +294,7 @@
         "question": "Theo Luật Kinh doanh bảo hiểm, đại lý bảo hiểm là:",
         "options": [
             "Người được doanh nghiệp bảo hiểm ủy quyền thực hiện tất cả các công việc liên quan đến nghiệp vụ bảo hiểm.",
-            "T  chức, cá nhân được doanh nghiệp bảo hiểm ủy quyền trên c  sở hợp đồng đại lý bảo hiểm để thực hiện hoạt động đại lý bảo hiểm.",
+            "Tổ chức, cá nhân được doanh nghiệp bảo hiểm ủy quyền trên cơ sở hợp đồng đại lý bảo hiểm để thực hiện hoạt động đại lý bảo hiểm.",
             "Tổ chức, cá nhân được bên mua bảo hiểm ủy quyền trên cơ sở hợp đồng đại lý bảo hiểm để thực hiện hoạt động đại lý bảo hiểm.",
             "A, B, C đúng."
         ],
@@ -311,7 +311,7 @@
         "options": [
             "Người thụ hưởng là tổ chức, cá nhân được bên mua bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
             "Người thụ hưởng là tổ chức, cá nhân được người được bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
-            "Người thụ hưởng là t  chức, cá nhân được doanh nghiệp bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+            "Người thụ hưởng là tổ chức, cá nhân được doanh nghiệp bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
             "A, B đúng."
         ],
         "answer": 2,
@@ -339,7 +339,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm cháy, n  bắt buộc do c  quan nào ban hành quy định về điều kiện, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu?",
+        "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm cháy, nổ bắt buộc do cơ quan nào ban hành quy định về điều kiện, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu?",
         "options": [
             "Chính phủ",
             "Bộ Công thương",
@@ -375,7 +375,7 @@
         "options": [
             "Thay mặt khách hàng ký Giấy yêu cầu bảo hiểm",
             "Thay mặt khách hàng ký Giấy nhận tiền bồi thường hoặc trả tiền bảo hiểm",
-            "Thu thập hồ s  để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm",
+            "Thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm",
             "A, B, C sai"
         ],
         "answer": 2,
@@ -387,7 +387,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, đối tượng nào sau đây được ủy quyền cho đại lý bảo hiểm trên c  sở hợp đồng đại lý bảo hiểm để thực hiện các hoạt động đại lý bảo hiểm:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, đối tượng nào sau đây được ủy quyền cho đại lý bảo hiểm trên cơ sở hợp đồng đại lý bảo hiểm để thực hiện các hoạt động đại lý bảo hiểm:",
         "options": [
             "Doanh nghiệp môi giới bảo hiểm",
             "Doanh nghiệp bảo hiểm",
@@ -433,7 +433,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Ch n phư ng án đúng nhất: Thuật ngữ “Sản Phẩm” trong bảo hiểm trách nhiệm sản phẩm được hiểu là:",
+        "question": "Chọn phương án đúng nhất: Thuậtổngữ “Sản Phẩm” trong bảo hiểm trách nhiệm sản phẩm được hiểu là:",
         "options": [
             "Hàng hóa (bao gồm thùng/hộp chứa hàng, bao bì, hướng dẫn sử dụng) đã được bán, cung cấp hoặc sửa chữa, thay thế, bảo hành bởi người được bảo hiểm.",
             "Hàng hóa đã rời khỏi sự kiểm soát của người được bảo hiểm.",
@@ -499,7 +499,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp đ n phư ng chấm dứt thực hiện hợp đồng bảo hiểm do bên mua bảo hiểm không đóng phí bảo hiểm hoặc không đóng đủ phí bảo hiểm theo thời hạn thỏa thuận hoặc sau thời gian gia hạn đóng phí, bên mua bảo hiểm vẫn phải đóng đủ phí bảo hiểm đến thời điểm đ n phư ng chấm dứt thực hiện hợp đồng bảo hiểm. Quy định này được áp dụng đối với:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp đơn phương chấm dứt thực hiện hợp đồng bảo hiểm do bên mua bảo hiểm không đóng phí bảo hiểm hoặc không đóng đủ phí bảo hiểm theo thời hạn thỏa thuận hoặc sau thời gian gia hạn đóng phí, bên mua bảo hiểm vẫn phải đóng đủ phí bảo hiểm đến thời điểm đơn phương chấm dứt thực hiện hợp đồng bảo hiểm. Quy định này được áp dụng đối với:",
         "options": [
             "Hợp đồng bảo hiểm trách nhiệm.",
             "Hợp đồng bảo hiểm tài sản.",
@@ -533,9 +533,9 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây sai về quyền và nghĩa vụ của doanh nghiệp bảo hiểm:",
         "options": [
-            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp không thuộc phạm vi trách nhiệm bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm",
-            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp loại trừ trách nhiệm bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm.",
-            "Doanh nghiệp bảo hiểm không được áp dụng loại trừ trách nhiệm bảo hiểm về việc chậm thông báo trong m i trường hợp",
+            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp không thuộc phạm vi trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm",
+            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp loại trừ trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+            "Doanh nghiệp bảo hiểm không được áp dụng loại trừ trách nhiệm bảo hiểm về việc chậm thông báo trong mọi trường hợp",
             "A, B đúng."
         ],
         "answer": 2,
@@ -547,7 +547,7 @@
         "sets": [
             "de1"
         ],
-        "question": "Ch n phư ng án đúng nhất về phư ng pháp quản lý rủi ro:",
+        "question": "Chọn phương án đúng nhất về phương pháp quản lý rủi ro:",
         "options": [
             "Né tránh rủi ro.",
             "Chấp nhận rủi ro.",
@@ -612,10 +612,10 @@
         "sets": [
             "de1"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn nộp hồ s  yêu cầu bồi thường, trả tiền bảo hiểm kể từ ngày xảy ra sự kiện bảo hiểm theo hợp đồng bảo hiểm là:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm kể từ ngày xảy ra sự kiện bảo hiểm theo hợp đồng bảo hiểm là:",
         "options": [
             "6 tháng (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm).",
-            "1 năm (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ s  yêu cầu bồi thường, trả tiền bảo hiểm).",
+            "1 năm (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm).",
             "2 năm (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm).",
             "3 năm (thời gian xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan không tính vào thời hạn nộp hồ sơ yêu cầu bồi thường, trả tiền bảo hiểm)."
         ],
@@ -630,8 +630,8 @@
         ],
         "question": "Tiêu chí nào sau đây là tiêu chí đánh giá rủi ro:",
         "options": [
-            ".Mức độ rủi ro và kiểm soát rủi ro.",
-            "ức độ rủi ro và nguy c  rủi ro.",
+            ".Mmức độ rủi ro và kiểm soát rủi ro.",
+            "mức độ rủi ro và nguy cơ rủi ro.",
             "Nguy cơ rủi ro và kiểm soát rủi ro.",
             "A, B, C đúng."
         ],
@@ -646,7 +646,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đối với hợp đồng bảo hiểm trách nhiệm, trong phạm vi giới hạn trách nhiệm bảo hiểm, doanh nghiệp bảo hiểm có trách nhiệm chi trả cho người được bảo hiểm các khoản tiền nào sau đây:",
         "options": [
-            "Khoản tiền mà theo quy định của pháp luật người được bảo hiểm có trách nhiệm bồi thường cho người thứ ba.",
+            "Khoản tiền mà theo quy định của pháp luậtổngười được bảo hiểm có trách nhiệm bồi thường cho người thứ ba.",
             "Các chi phí liên quan đến việc giải quyết tranh chấp về trách nhiệm đối với người thứ ba và lãi phải trả cho người thứ ba do người được bảo hiểm chậm trả tiền bồi thường theo chỉ dẫn của doanh nghiệp bảo hiểm.",
             "A, B đúng",
             "A, B sai"
@@ -666,7 +666,7 @@
             "Mất toàn bộ xe do trộm, cướp.",
             "Chi phí cứu hộ và vận chuyển xe bị thiệt hại tới nơi sửa chữa gần nhất.",
             "A, B, C đúng.",
-            "A, B  đúng."
+            "A, B đúng."
         ],
         "answer": 3,
         "explanation": ""
@@ -695,7 +695,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai:",
         "options": [
-            "Hợp đồng bảo hiểm là sự thoả thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng.",
+            "Hợp đồng bảo hiểm là sự thỏa thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng.",
             "Các loại hợp đồng bảo hiểm bao gồm: Hợp đồng bảo hiểm nhân thọ; Hợp đồng bảo hiểm sức khỏe; Hợp đồng bảo hiểm tài sản; Hợp đồng bảo hiểm thiệt hại; Hợp đồng bảo hiểm trách nhiệm.",
             "Trường hợp hợp đồng bảo hiểm có điều khoản không rõ ràng dẫn đến có cách hiểu khác nhau thì điều khoản đó được giải thích theo hướng có lợi cho doanh nghiệp bảo hiểm.",
             "Doanh nghiệp bảo hiểm và bên mua bảo hiểm được thỏa thuận giao kết một hoặc kết hợp nhiều loại hợp đồng bảo hiểm"
@@ -713,7 +713,7 @@
         "options": [
             "Hưởng hoa hồng đại lý bảo hiểm, thưởng, hỗ trợ đại lý bảo hiểm theo thỏa thuận trong hợp đồng đại lý bảo hiểm",
             "Thực hiện cam kết trong hợp đồng bảo hiểm được ký giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm.",
-            "Tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
+            "Tư vấn, gGiới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
             "Thực hiện nghĩa vụ trong hợp đồng đại lý bảo hiểm."
         ],
         "answer": 1,
@@ -786,7 +786,7 @@
         "sets": [
             "de2"
         ],
-        "question": "Ông A là người được bảo hiểm của hợp đồng bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, khi tham gia giao thông do hành vi cố ý vi phạm của ông B, ông A bị tai nạn dẫn đến thương tật toàn bộ vĩnh viễn. Trong trường hợp này, doanh nghiệp bảo hiểm sẽ giải quyết như thế nào? (Ông B không phải là người thụ hưởng của hợp đồng bảo hiểm nói trên).",
+        "question": "Ông A là người được bảo hiểm của hợp đồng bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, khi tham gia giao thông do hành vi cố ý vi phạm của ông B, ông A bị tai nạn dẫn đến thương tật toàn bộ vĩnh viễn. Trong trường hợp này, doanh nghiệp bảo hiểm sẽ giải quyếtổnhư thế nào? (Ông B không phải là người thụ hưởng của hợp đồng bảo hiểm nói trên).",
         "options": [
             "Không chi trả.",
             "Chi trả 100% số tiền bảo hiểm.",
@@ -885,7 +885,7 @@
         "question": "Theo Luật kinh doanh bảo hiểm, câu trả lời nào sau đây là đúng nhất về hợp đồng bảo hiểm trùng?",
         "options": [
             "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết hợp đồng bảo hiểm với hai doanh nghiệp bảo hiểm trở lên để bảo hiểm cho cùng một đối tượng bảo hiểm",
-            "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết nhiều hợp đồng bảo hiểm với một doanh nghiệp bảo hiểm để bảo hiểm cho cùng một đối tượng bảo hiểm",
+            "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kếtổnhiều hợp đồng bảo hiểm với một doanh nghiệp bảo hiểm để bảo hiểm cho cùng một đối tượng bảo hiểm",
             "Hợp đồng bảo hiểm trùng là trường hợp có từ hai hợp đồng bảo hiểm trở lên để bảo hiểm cho cùng phạm vi, đối tượng, thời hạn và sự kiện bảo hiểm mà tổng số tiền bảo hiểm vượt quá giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm.",
             "A, B, C sai"
         ],
@@ -915,7 +915,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm không được ủy quyền cho đại lý bảo hiểm thực hiện hoạt động nào dưới đây:",
         "options": [
-            "iới thiệu, chào bán sản phẩm bảo hiểm.",
+            "Giới thiệu, chào bán sản phẩm bảo hiểm.",
             "Thu xếp giao kết hợp đồng bảo hiểm.",
             "Thu phí bảo hiểm.",
             "Thu xếp tái bảo hiểm."
@@ -1011,7 +1011,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đại lý bảo hiểm được thực hiện các hoạt động nào sau đây theo ủy quyền của doanh nghiệp bảo hiểm:",
         "options": [
-            "Tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm.",
+            "Tư vấn sản phẩm bảo hiểm; gGiới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm.",
             "Thay mặt doanh nghiệp bảo hiểm ký kết hợp đồng với bên mua bảo hiểm.",
             "A, B đúng."
         ],
@@ -1281,7 +1281,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đối với tổn thất do hao mòn tự nhiên hoặc do bản chất vốn có của tài sản, doanh nghiệp bảo hiểm sẽ:",
         "options": [
-            "Không chịu trách nhiệm bồi thường  (trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm)",
+            "Không chịu trách nhiệm bồi thường (trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm)",
             "Chịu trách nhiệm bồi thường 70% tổn thất",
             "Chịu trách nhiệm bồi thường 50% tổn thất",
             "Chịu trách nhiệm bồi thường 30% tổn thất"
@@ -1301,7 +1301,7 @@
             "Mất toàn bộ xe do trộm, cướp.",
             "Chi phí cứu hộ và vận chuyển xe bị thiệt hại tới nơi sửa chữa gần nhất.",
             "A, B, C đúng.",
-            "A, B  đúng."
+            "A, B đúng."
         ],
         "answer": 3,
         "explanation": ""
@@ -1347,7 +1347,7 @@
             "Thực hiện nghĩa vụ trong hợp đồng đại lý bảo hiểm.",
             "Quyết định chi trả quyền lợi bảo hiểm theo hợp đồng bảo hiểm",
             "Ký quỹ hoặc thế chấp tài sản cho doanh nghiệp bảo hiểm nếu có thỏa thuận trong hợp đồng đại lý bảo hiểm",
-            "Tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm"
+            "Tư vấn, gGiới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm"
         ],
         "answer": 1,
         "explanation": ""
@@ -1490,7 +1490,7 @@
             "Bất kỳ lợi ích kinh tế mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất.",
             "Nghĩa vụ thực hiện hợp đồng mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất.",
             "Nghĩa vụ theo pháp luật mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất.",
-            "Trách nhiệm dân sự mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất."
+            "Tráchọnhiệm dân sự mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất."
         ],
         "answer": 3,
         "explanation": ""
@@ -1550,7 +1550,7 @@
         "sets": [
             "de3"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm,  chọn phương án đúng nhất:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng nhất:",
         "options": [
             "Doanh nghiệp bảo hiểm được quyết định mức chi trả hoa hồng đại lý bảo hiểm",
             "Doanh nghiệp bảo hiểm được quyết định mức chi trả hoa hồng đại lý bảo hiểm, thưởng, hỗ trợ đại lý bảo hiểm và quyền lợi khác trong hợp đồng đại lý bảo hiểm không vượt quá mức tối đa theo quy định của Bộ trưởng Bộ Tài chính",
@@ -1632,7 +1632,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây là đúng:",
         "options": [
-            "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luật này và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe.",
+            "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luậtổnày và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe.",
             "Hoạt động đại lý bảo hiểm là việc cung cấp thông tin, tư vấn cho bên mua bảo hiểm về sản phẩm bảo hiểm, điều kiện bảo hiểm, mức phí bảo hiểm, doanh nghiệp bảo hiểm, và các công việc liên quan đến việc đàm phán, thu xếp và thực hiện hợp đồng bảo hiểm theo yêu cầu của bên mua bảo hiểm.",
             "A, B sai."
         ],
@@ -1696,7 +1696,7 @@
         "options": [
             "Tài sản theo quy định của Bộ luật dân sự.",
             "Sức khỏe, tuổi thọ, tính mạng con người.",
-            "Trách nhiệm dân sự của người được bảo hiểm đối với người thứ ba.",
+            "Tráchọnhiệm dân sự của người được bảo hiểm đối với người thứ ba.",
             "A, B, C đúng."
         ],
         "answer": 3,
@@ -1901,7 +1901,7 @@
         ],
         "question": "Chọn phương án đúng nhất về bảo hiểm trùng:",
         "options": [
-            "Đối tượng bảo hiểm được bảo vệ bằng ít nhất hai hợp đồng bảo hiểm.",
+            "Đối tượng bảo hiểm được bảo vệ bằng ítổnhất hai hợp đồng bảo hiểm.",
             "Rủi ro gây ra tổn thất thuộc rủi ro được bảo hiểm của một trong số các hợp đồng bảo hiểm cho đối tượng bảo hiểm đó.",
             "Các hợp đồng bảo hiểm phải có cùng phạm vi, đối tượng, thời hạn và sự kiện bảo hiểm.",
             "A, B đúng.",
@@ -1916,7 +1916,7 @@
         "sets": [
             "de4"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản,  trường hợp doanh nghiệp bảo hiểm và bên mua bảo hiểm không thoả thuận được về hình thức bồi thường thì việc bồi thường sẽ được thực hiện bằng:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, trường hợp doanh nghiệp bảo hiểm và bên mua bảo hiểm không thỏa thuận được về hình thức bồi thường thì việc bồi thường sẽ được thực hiện bằng:",
         "options": [
             "Sửa chữa tài sản bị thiệt hại",
             "Thay thế tài sản bị thiệt hại bằng tài sản khác",
@@ -2078,8 +2078,8 @@
         ],
         "question": "Tiêu chí nào sau đây là tiêu chí đánh giá rủi ro:",
         "options": [
-            ".Mức độ rủi ro và kiểm soát rủi ro.",
-            "Mức độ rủi ro và nguy cơ rủi ro.",
+            ".Mmức độ rủi ro và kiểm soát rủi ro.",
+            "Mmức độ rủi ro và nguy cơ rủi ro.",
             "Nguy cơ rủi ro và kiểm soát rủi ro.",
             "A, B, C đúng."
         ],
@@ -2237,7 +2237,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, trường hợp người được bảo hiểm từ chối chuyển quyền yêu cầu người thứ ba bồi hoàn, doanh nghiệp bảo hiểm có quyền:",
         "options": [
-            "Khấu trừ số tiền bồi thường tuỳ theo mức độ lỗi của người được bảo hiểm.",
+            "Khấu trừ số tiền bồi thường tuỳ theo mmức độ lỗi của người được bảo hiểm.",
             "Hủy bỏ hợp đồng bảo hiểm.",
             "Trực tiếp yêu cầu người thứ ba bồi thường",
             "A, C đúng."
@@ -2269,7 +2269,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai:",
         "options": [
-            "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luật này và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe.",
+            "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luậtổnày và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe.",
             "Sự kiện bảo hiểm là sự kiện khách quan do các bên thỏa thuận hoặc pháp luật quy định mà khi sự kiện đó xảy ra thì doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, tổ chức tương hỗ cung cấp bảo hiểm vi mô phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
             "Kinh doanh tái bảo hiểm là hoạt động của doanh nghiệp bảo hiểm nhằm mục đích sinh lợi, theo đó doanh nghiệp bảo hiểm chấp nhận rủi ro của người được bảo hiểm, trên cơ sở bên mua bảo hiểm đóng phí bảo hiểm để doanh nghiệp bảo hiểm trả tiền bảo hiểm cho người thụ hưởng hoặc bồi thường cho người được bảo hiểm khi xảy ra sự kiện bảo hiểm."
         ],
@@ -2445,7 +2445,7 @@
         "question": "Theo Luật Kinh doanh bảo hiểm, bên mua bảo hiểm có quyền:",
         "options": [
             "Yêu cầu doanh nghiệp bảo hiểm cung cấp bản yêu cầu bảo hiểm, bảng câu hỏi liên quan đến rủi ro được bảo hiểm, đối tượng bảo hiểm, quy tắc, điều kiện, điều khoản bảo hiểm và giải thích các điều kiện, điều khoản bảo hiểm.",
-            "Hủy bỏ hợp đồng bảo hiểm trong trường hợp doanh nghiệp bảo hiểm cố ý cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm.",
+            "Hủy bỏ hợp đồng bảo hiểm trong trường hợp doanh nghiệp bảo hiểm cố ý cung cấp thông tin sai sự thậtổnhằm giao kết hợp đồng bảo hiểm.",
             "Yêu cầu doanh nghiệp bảo hiểm bồi thường, trả tiền bảo hiểm khi xảy ra sự kiện bảo hiểm",
             "A, B, C đúng."
         ],
@@ -2522,7 +2522,7 @@
         "sets": [
             "de4"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp doanh nghiệp bảo hiểm cố ý không thực hiện nghĩa vụ cung cấp thông tin hoặc cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm thì:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp doanh nghiệp bảo hiểm cố ý không thực hiện nghĩa vụ cung cấp thông tin hoặc cung cấp thông tin sai sự thậtổnhằm giao kết hợp đồng bảo hiểm thì:",
         "options": [
             "Bên mua bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm; Doanh nghiệp bảo hiểm không phải bồi thường thiệt hại phát sinh cho bên mua bảo hiểm do cung cấp thông tin sai sự thật.",
             "Bên mua bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm; Doanh nghiệp bảo hiểm phải bồi thường thiệt hại phát sinh cho bên mua bảo hiểm do cung cấp thông tin sai sự thật",
@@ -2605,8 +2605,8 @@
         ],
         "question": "Tiêu chí nào sau đây là tiêu chí đánh giá rủi ro:",
         "options": [
-            "Mức độ rủi ro và kiểm soát rủi ro.",
-            "Mức độ rủi ro và nguy cơ rủi ro.",
+            "Mmức độ rủi ro và kiểm soát rủi ro.",
+            "Mmức độ rủi ro và nguy cơ rủi ro.",
             "Nguy cơ rủi ro và kiểm soát rủi ro.",
             "A, B, C đúng."
         ],
@@ -2637,7 +2637,7 @@
         ],
         "question": "Tiêu chí nào sau đây không phải là tiêu chí đánh giá rủi ro:",
         "options": [
-            "Mức độ rủi ro.",
+            "Mmức độ rủi ro.",
             "Nguy cơ rủi ro.",
             "Tần suất xuất hiện rủi ro."
         ],
@@ -2652,7 +2652,7 @@
         ],
         "question": "Rủi ro được coi là rủi ro có thể được bảo hiểm khi đáp ứng các điều kiện sau:",
         "options": [
-            "Tổn thất phải ngẫu nhiên, bất ngờ.",
+            "Tổn thất phải ngẫu nhiên, bấtổngờ.",
             "Phải đo được, định lượng được về tài chính.",
             "Phải có số đông.",
             "Không trái với chuẩn mực đạo đức xã hội.",
@@ -2750,8 +2750,8 @@
         "question": "Giá trị thực tế của các công trình kiến trúc và máy móc, thiết bị để tham gia bảo hiểm là:",
         "options": [
             "Giá trị theo sổ sách kế toán.",
-            "Giá trị nếu được thay thế mới hay mua mới ban đầu trừ đi phần giảm giá trị do hao mòn, xuống cấp theo thời gian và mức độ sử dụng, khai thác.",
-            "Giá trị nếu được thay thế mới hay mua mới ở hiện tại trừ đi phần giảm giá trị do hao mòn, xuống cấp theo thời gian và mức độ sử dụng, khai thác.",
+            "Giá trị nếu được thay thế mới hay mua mới ban đầu trừ đi phần giảm giá trị do hao mòn, xuống cấp theo thời gian và mmức độ sử dụng, khai thác.",
+            "Giá trị nếu được thay thế mới hay mua mới ở hiện tại trừ đi phần giảm giá trị do hao mòn, xuống cấp theo thời gian và mmức độ sử dụng, khai thác.",
             "A, C đúng."
         ],
         "answer": 2,
@@ -2763,9 +2763,9 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, trừ trường hợp có thoả thuận khác, số tiền bồi thường mà doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm được xác định trên cơ sở:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, trừ trường hợp có thỏa thuận khác, số tiền bồi thường mà doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm được xác định trên cơ sở:",
         "options": [
-            "Giá thị trường của tài sản được bảo hiểm tại thời điểm, nơi xảy ra tổn thất và mức độ thiệt hại thực tế",
+            "Giá thị trường của tài sản được bảo hiểm tại thời điểm, nơi xảy ra tổn thất và mmức độ thiệt hại thực tế",
             "Giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm",
             "Thỏa thuận giữa bên mua bảo hiểm và người thứ ba gây thiệt hại",
             "Nguyên giá của tài sản"
@@ -2892,7 +2892,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây là đúng:",
         "options": [
-            "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luật này và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe.",
+            "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luậtổnày và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe.",
             "Hoạt động đại lý bảo hiểm là việc cung cấp thông tin, tư vấn cho bên mua bảo hiểm về sản phẩm bảo hiểm, điều kiện bảo hiểm, mức phí bảo hiểm, doanh nghiệp bảo hiểm, và các công việc liên quan đến việc đàm phán, thu xếp và thực hiện hợp đồng bảo hiểm theo yêu cầu của bên mua bảo hiểm.",
             "A, B sai."
         ],
@@ -3219,7 +3219,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai:",
         "options": [
-            "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luật này và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe.",
+            "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luậtổnày và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe.",
             "Sự kiện bảo hiểm là sự kiện khách quan do các bên thỏa thuận hoặc pháp luật quy định mà khi sự kiện đó xảy ra thì doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, tổ chức tương hỗ cung cấp bảo hiểm vi mô phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
             "Kinh doanh tái bảo hiểm là hoạt động của doanh nghiệp bảo hiểm nhằm mục đích sinh lợi, theo đó doanh nghiệp bảo hiểm chấp nhận rủi ro của người được bảo hiểm, trên cơ sở bên mua bảo hiểm đóng phí bảo hiểm để doanh nghiệp bảo hiểm trả tiền bảo hiểm cho người thụ hưởng hoặc bồi thường cho người được bảo hiểm khi xảy ra sự kiện bảo hiểm"
         ],
@@ -3250,7 +3250,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai:",
         "options": [
-            "Hợp đồng bảo hiểm là sự thoả thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng.",
+            "Hợp đồng bảo hiểm là sự thỏa thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng.",
             "Các loại hợp đồng bảo hiểm bao gồm: Hợp đồng bảo hiểm nhân thọ; Hợp đồng bảo hiểm sức khỏe; Hợp đồng bảo hiểm tài sản; Hợp đồng bảo hiểm thiệt hại; Hợp đồng bảo hiểm trách nhiệm.",
             "Trường hợp hợp đồng bảo hiểm có điều khoản không rõ ràng dẫn đến có cách hiểu khác nhau thì điều khoản đó được giải thích theo hướng có lợi cho doanh nghiệp bảo hiểm.",
             "Doanh nghiệp bảo hiểm và bên mua bảo hiểm được thỏa thuận giao kết một hoặc kết hợp nhiều loại hợp đồng bảo hiểm"
@@ -3393,7 +3393,7 @@
         "options": [
             "Hợp đồng bảo hiểm là hợp đồng song vụ, theo đó mỗi bên trong hợp đồng đều có nghĩa vụ đối với nhau.",
             "Hợp đồng bảo hiểm là hợp đồng theo mẫu do doanh nghiệp bảo hiểm đưa ra.",
-            "Hợp đồng bảo hiểm là sự thoả thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng.",
+            "Hợp đồng bảo hiểm là sự thỏa thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng.",
             "A, C đúng.",
             "A, B, C đúng."
         ],
@@ -3489,7 +3489,7 @@
         "options": [
             "Tài sản theo quy định của Bộ luật dân sự.",
             "Sức khỏe, tuổi thọ, tính mạng con người.",
-            "Trách nhiệm dân sự của người được bảo hiểm đối với người thứ ba.",
+            "Tráchọnhiệm dân sự của người được bảo hiểm đối với người thứ ba.",
             "A, B, C đúng."
         ],
         "answer": 3,
@@ -3671,7 +3671,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, đối với hợp đồng bảo hiểm tài sản, trong trường hợp đơn phương chấm dứt thực hiện hợp đồng bảo hiểm khi bên mua bảo hiểm không đóng đủ phí bảo hiểm sau thời gian gia hạn đóng phí bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm thì:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, đối với hợp đồng bảo hiểm tài sản, trong trường hợp đơn phương chấm dứt thực hiện hợp đồng bảo hiểm khi bên mua bảo hiểm không đóng đủ phí bảo hiểm sau thời gian gia hạn đóng phí bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm thì:",
         "options": [
             "Doanh nghiệp bảo hiểm có trách nhiệm bồi thường cho người được bảo hiểm khi sự kiện bảo hiểm xảy ra trước thời điểm đơn phương chấm dứt thực hiện hợp đồng bảo hiểm và có quyền khấu trừ phí bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
             "Bên mua bảo hiểm vẫn phải đóng đủ phí bảo hiểm đến thời điểm đơn phương chấm dứt thực hiện hợp đồng bảo hiểm",
@@ -3719,7 +3719,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp doanh nghiệp bảo hiểm cố ý không thực hiện nghĩa vụ cung cấp thông tin hoặc cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm thì:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp doanh nghiệp bảo hiểm cố ý không thực hiện nghĩa vụ cung cấp thông tin hoặc cung cấp thông tin sai sự thậtổnhằm giao kết hợp đồng bảo hiểm thì:",
         "options": [
             "Bên mua bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm; Doanh nghiệp bảo hiểm không phải bồi thường thiệt hại phát sinh cho bên mua bảo hiểm do cung cấp thông tin sai sự thật.",
             "Bên mua bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm; Doanh nghiệp bảo hiểm phải bồi thường thiệt hại phát sinh cho bên mua bảo hiểm do cung cấp thông tin sai sự thật",
@@ -3738,7 +3738,7 @@
         "question": "Theo Luật Kinh doanh bảo hiểm, bên mua bảo hiểm có quyền hủy bỏ hợp đồng và được hoàn lại phí bảo hiểm đã đóng trong trường hợp nào sau đây:",
         "options": [
             "Doanh nghiệp bảo hiểm cố ý không thực hiện nghĩa vụ cung cấp thông tin nhằm giao kết hợp đồng bảo hiểm.",
-            "Doanh nghiệp bảo hiểm cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm.",
+            "Doanh nghiệp bảo hiểm cung cấp thông tin sai sự thậtổnhằm giao kết hợp đồng bảo hiểm.",
             "A, B đúng.",
             "A, B sai."
         ],
@@ -3880,7 +3880,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai:",
         "options": [
-            "Bên mua bảo hiểm có quyền chuyển giao hợp đồng bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm hoặc theo quy định của pháp luật.",
+            "Bên mua bảo hiểm có quyền chuyển giao hợp đồng bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm hoặc theo quy định của pháp luật.",
             "Bên mua bảo hiểm không có quyền chuyển giao hợp đồng bảo hiểm",
             "Bên mua bảo hiểm không có quyền lợi có thể được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm thì hợp đồng bảo hiểm sẽ vô hiệu.",
             "Khi hợp đồng bảo hiểm vô hiệu thì hợp đồng không có hiệu lực từ thời điểm giao kết."
@@ -4592,7 +4592,7 @@
             "Có quyền yêu cầu doanh nghiệp bảo hiểm giảm phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm",
             "Có quyền yêu cầu doanh nghiệp bảo hiểm giảm số tiền bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm",
             "Không có quyền yêu cầu doanh nghiệp bảo hiểm kéo dài thời hạn bảo hiểm.",
-            "Có quyền yêu cầu doanh nghiệp bảo hiểm rút ngắn thời hạn bảo hiểm"
+            "Có quyền yêu cầu doanh nghiệp bảo hiểm rútổngắn thời hạn bảo hiểm"
         ],
         "answer": 0,
         "explanation": ""
@@ -4830,7 +4830,7 @@
         "question": "Hãy chọn phương án sai:",
         "options": [
             "Mức miễn thường không khấu trừ có nghĩa là nếu giá trị tổn thất lớn hơn mức miễn thường thì bồi thường toàn bộ giá trị tổn thất.",
-            "Mức miễn thường không khấu trừ có nghĩa là nếu giá trị tổn thất nhỏ hơn mức miễn thường thì doanh nghiệp bảo hiểm không phải bồi thường.",
+            "Mức miễn thường không khấu trừ có nghĩa là nếu giá trị tổn thấtổnhỏ hơn mức miễn thường thì doanh nghiệp bảo hiểm không phải bồi thường.",
             "Mức miễn thường có khấu trừ có nghĩa là nếu giá trị tổn thất lớn hơn mức miễn thường thì bồi thường toàn bộ giá trị tổn thất.",
             "Mức miễn thường có khấu trừ có nghĩa là nếu giá trị tổn thất lớn hơn mức miễn thường thì số tiền bồi thường bằng giá trị tổn thất trừ đi mức miễn thường."
         ],
@@ -4857,7 +4857,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Trong bảo hiểm tài sản, trường hợp áp dụng mức miễn thường không khấu trừ, nếu giá trị tổn thất nhỏ hơn mức miễn thường thì:",
+        "question": "Trong bảo hiểm tài sản, trường hợp áp dụng mức miễn thường không khấu trừ, nếu giá trị tổn thấtổnhỏ hơn mức miễn thường thì:",
         "options": [
             "Số tiền bồi thường bằng giá trị tổn thất.",
             "Số tiền bồi thường bằng giá trị tổn thất trừ đi mức miễn thường.",
@@ -4924,7 +4924,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng về bảo hiểm trùng:",
         "options": [
-            "Đối tượng được bảo hiểm được bảo vệ bằng ít nhất hai hợp đồng bảo hiểm.",
+            "Đối tượng được bảo hiểm được bảo vệ bằng ítổnhất hai hợp đồng bảo hiểm.",
             "Các hợp đồng bảo hiểm phải có cùng phạm vi, thời hạn và sự kiện bảo hiểm.",
             "Tổng số tiền bảo hiểm vượt quá giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm.",
             "A, B đúng.",
@@ -4957,10 +4957,10 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp các bên giao kết hợp đồng bảo hiểm trùng, khi xảy ra sự kiện bảo hiểm thì:",
         "options": [
-            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tương ứng theo tỷ lệ giữa số tiền bảo hiểm đã thoả thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm không vượt quá giá trị thiệt hại thực tế của tài sản.",
-            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tương ứng theo tỷ lệ giữa số tiền bảo hiểm đã thoả thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm có thể lớn hơn giá trị thiệt hại thực tế của tài sản.",
+            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tương ứng theo tỷ lệ giữa số tiền bảo hiểm đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm không vượt quá giá trị thiệt hại thực tế của tài sản.",
+            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tương ứng theo tỷ lệ giữa số tiền bảo hiểm đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm có thể lớn hơn giá trị thiệt hại thực tế của tài sản.",
             "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được doanh nghiệp bảo hiểm chi trả theo tỷ lệ bằng nhau trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm không vượt quá giá trị thiệt hại thực tế của tài sản.",
-            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được chi trả theo thiệt hại thực tế đã thoả thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết."
+            "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được chi trả theo thiệt hại thực tế đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết."
         ],
         "answer": 0,
         "explanation": ""
@@ -4989,7 +4989,7 @@
         ],
         "question": "Chọn phương án đúng nhất về bảo hiểm trùng:",
         "options": [
-            "Đối tượng bảo hiểm được bảo vệ bằng ít nhất hai hợp đồng bảo hiểm.",
+            "Đối tượng bảo hiểm được bảo vệ bằng ítổnhất hai hợp đồng bảo hiểm.",
             "Rủi ro gây ra tổn thất thuộc rủi ro được bảo hiểm của một trong số các hợp đồng bảo hiểm cho đối tượng bảo hiểm đó.",
             "Các hợp đồng bảo hiểm phải có cùng phạm vi, đối tượng, thời hạn và sự kiện bảo hiểm.",
             "A, B đúng.",
@@ -5007,7 +5007,7 @@
         "question": "Theo Luật kinh doanh bảo hiểm, câu trả lời nào sau đây là đúng nhất về hợp đồng bảo hiểm trùng?",
         "options": [
             "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết hợp đồng bảo hiểm với hai doanh nghiệp bảo hiểm trở lên để bảo hiểm cho cùng một đối tượng bảo hiểm",
-            "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết nhiều hợp đồng bảo hiểm với một doanh nghiệp bảo hiểm để bảo hiểm cho cùng một đối tượng bảo hiểm",
+            "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kếtổnhiều hợp đồng bảo hiểm với một doanh nghiệp bảo hiểm để bảo hiểm cho cùng một đối tượng bảo hiểm",
             "Hợp đồng bảo hiểm trùng là trường hợp có từ hai hợp đồng bảo hiểm trở lên để bảo hiểm cho cùng phạm vi, đối tượng, thời hạn và sự kiện bảo hiểm mà tổng số tiền bảo hiểm vượt quá giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm.",
             "A, B, C sai"
         ],
@@ -5038,10 +5038,10 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây là đúng nhất về giám định tổn thất bảo hiểm:",
         "options": [
-            "Là hoạt động xác định hiện trạng, tính chất, nguyên nhân, mức độ rủi ro, mức độ tổn thất, tính toán phân bổ trách nhiệm bồi thường tổn thất làm cơ sở giải quyết bồi thường bảo hiểm.",
-            "Là hoạt động xác định hiện trạng, nguyên nhân, mức độ tổn thất, tính toán phân bổ trách nhiệm bồi thường tổn thất làm cơ sở giải quyết bồi thường bảo hiểm.",
-            "Là hoạt động xác định hiện trạng, nguyên nhân, phân loại tổn thất, mức độ tổn thất, tính toán phân bổ trách nhiệm bồi thường tổn thất làm cơ sở giải quyết bồi thường bảo hiểm.",
-            "Là hoạt động xác định hiện trạng, nguyên nhân, mức độ tổn thất, tính toán phân bổ trách nhiệm bồi thường tổn thất làm cơ sở giải quyết bồi thường bảo hiểm phi nhân thọ và chi trả quyền lợi bảo hiểm nhân thọ."
+            "Là hoạt động xác định hiện trạng, tính chất, nguyên nhân, mmức độ rủi ro, mmức độ tổn thất, tính toán phân bổ trách nhiệm bồi thường tổn thất làm cơ sở giải quyết bồi thường bảo hiểm.",
+            "Là hoạt động xác định hiện trạng, nguyên nhân, mmức độ tổn thất, tính toán phân bổ trách nhiệm bồi thường tổn thất làm cơ sở giải quyết bồi thường bảo hiểm.",
+            "Là hoạt động xác định hiện trạng, nguyên nhân, phân loại tổn thất, mmức độ tổn thất, tính toán phân bổ trách nhiệm bồi thường tổn thất làm cơ sở giải quyết bồi thường bảo hiểm.",
+            "Là hoạt động xác định hiện trạng, nguyên nhân, mmức độ tổn thất, tính toán phân bổ trách nhiệm bồi thường tổn thất làm cơ sở giải quyết bồi thường bảo hiểm phi nhân thọ và chi trả quyền lợi bảo hiểm nhân thọ."
         ],
         "answer": 1,
         "explanation": ""
@@ -5303,9 +5303,9 @@
         ],
         "question": "Trong sản phẩm bảo hiểm sức khỏe với quyền lợi bảo hiểm tai nạn, tai nạn được hiểu là:",
         "options": [
-            "Tai nạn do một sự kiện bất ngờ, ngoài ý muốn của người được bảo hiểm, từ bên ngoài tác động lên thân thể người được bảo hiểm, là nguyên nhân trực tiếp khiến cho người được bảo hiểm bị chết hoặc thương tật thân thể.",
-            "Tai nạn do một sự kiện bất ngờ, ngoài ý muốn của người được bảo hiểm, từ bên ngoài tác động lên thân thể người được bảo hiểm, là nguyên nhân gián tiếp khiến cho người được bảo hiểm bị chết hoặc thương tật thân thể.",
-            "Tai nạn do một sự kiện bất ngờ, ngoài ý muốn của người được bảo hiểm, từ bên ngoài tác động lên thân thể người được bảo hiểm, là nguyên nhân trực tiếp hoặc gián tiếp khiến cho người được bảo hiểm bị chết hoặc thương tật thân thể."
+            "Tai nạn do một sự kiện bấtổngờ, ngoài ý muốn của người được bảo hiểm, từ bên ngoài tác động lên thân thể người được bảo hiểm, là nguyên nhân trực tiếp khiến cho người được bảo hiểm bị chết hoặc thương tật thân thể.",
+            "Tai nạn do một sự kiện bấtổngờ, ngoài ý muốn của người được bảo hiểm, từ bên ngoài tác động lên thân thể người được bảo hiểm, là nguyên nhân gián tiếp khiến cho người được bảo hiểm bị chết hoặc thương tật thân thể.",
+            "Tai nạn do một sự kiện bấtổngờ, ngoài ý muốn của người được bảo hiểm, từ bên ngoài tác động lên thân thể người được bảo hiểm, là nguyên nhân trực tiếp hoặc gián tiếp khiến cho người được bảo hiểm bị chết hoặc thương tật thân thể."
         ],
         "answer": 0,
         "explanation": ""
@@ -5384,7 +5384,7 @@
         "options": [
             "100% số tiền bảo hiểm.",
             "Số tiền chi trả tính theo bảng tỷ lệ bồi thường thương tật.",
-            "Số tiền chi phí xét nghiệm do người được bảo hiểm yêu cầu.",
+            "Số tiền chi phí xétổnghiệm do người được bảo hiểm yêu cầu.",
             "A, B, C đúng."
         ],
         "answer": 1,
@@ -5400,7 +5400,7 @@
         "options": [
             "Chi phí nằm viện do tai nạn.",
             "Chi phí di chuyển bằng xe cứu thương.",
-            "Chi phí cho các xét nghiệm, kiểm tra chẩn đoán.",
+            "Chi phí cho các xétổnghiệm, kiểm tra chẩn đoán.",
             "Chi phí phát sinh do tai nạn xảy ra trước thời điểm mua bảo hiểm.",
             "A, B, C đúng."
         ],
@@ -5475,7 +5475,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Ông A là người được bảo hiểm của hợp đồng bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, khi tham gia giao thông do hành vi cố ý vi phạm của ông B, ông A bị tai nạn dẫn đến thương tật toàn bộ vĩnh viễn. Trong trường hợp này, doanh nghiệp bảo hiểm sẽ giải quyết như thế nào? (Ông B không phải là người thụ hưởng của hợp đồng bảo hiểm nói trên).",
+        "question": "Ông A là người được bảo hiểm của hợp đồng bảo hiểm sức khỏe với quyền lợi bảo hiểm thương tật toàn bộ vĩnh viễn do tai nạn, khi tham gia giao thông do hành vi cố ý vi phạm của ông B, ông A bị tai nạn dẫn đến thương tật toàn bộ vĩnh viễn. Trong trường hợp này, doanh nghiệp bảo hiểm sẽ giải quyếtổnhư thế nào? (Ông B không phải là người thụ hưởng của hợp đồng bảo hiểm nói trên).",
         "options": [
             "Không chi trả.",
             "Chi trả 100% số tiền bảo hiểm.",
@@ -5555,7 +5555,7 @@
         "question": "Khi tham gia bảo hiểm chi phí y tế cơ bản, người được bảo hiểm có thể được nhận quyền lợi điều trị nội trú nào sau đây?",
         "options": [
             "Chi phí giường bệnh.",
-            "Chi phí xét nghiệm, thuốc điều trị trong thời gian điều trị nội trú.",
+            "Chi phí xétổnghiệm, thuốc điều trị trong thời gian điều trị nội trú.",
             "Chi phí nha khoa.",
             "A, B, C đúng.",
             "A, B đúng."
@@ -5601,7 +5601,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Ông A tham gia 02 hợp đồng bảo hiểm chi phí y tế tại 02 doanh nghiệp bảo hiểm X và Y, giới hạn chi trả chi phí y tế tại mỗi hợp đồng bảo hiểm là 10 triệu đồng/lần nằm viện. Trong thời hạn bảo hiểm, ông A nằm viện điều trị, chi phí cho đợt nằm viện này là 6 triệu đồng. Số tiền mà ông A sẽ được các doanh nghiệp bảo hiểm chi trả cho đợt nằm viện điều trị này là:",
+        "question": "Ông A tham gia 02 hợp đồng bảo hiểm chi phí y tế tại 02 doanh nghiệp bảo hiểm X và Y, giới hạn chi trả chi phí y tế tại mỗi hợp đồng bảo hiểm là 10 triệu đồng/lần nằm viện. Trong thời hạn bảo hiểm, ông A nằm viện điều trị, chi phí cho đợtổnằm viện này là 6 triệu đồng. Số tiền mà ông A sẽ được các doanh nghiệp bảo hiểm chi trả cho đợtổnằm viện điều trị này là:",
         "options": [
             "6 triệu đồng.",
             "10 triệu đồng.",
@@ -5684,7 +5684,7 @@
         "options": [
             "Chi phí mua các thực phẩm chức năng hỗ trợ điều trị theo chỉ định của bác sỹ.",
             "Chi phí phẫu thuật thẩm mĩ.",
-            "Chi phí phẫu thuật nội trú do ốm đau, bệnh tật."
+            "Chi phí phẫu thuậtổnội trú do ốm đau, bệnh tật."
         ],
         "answer": 2,
         "explanation": ""
@@ -5741,7 +5741,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Phạm vi bảo hiểm của bảo hiểm trách nhiệm dân sự xe cơ giới là: Thiệt hại ngoài hợp đồng về thân thể, tính mạng và tài sản đối với bên thứ ba do xe cơ giới gây ra. Trách nhiệm bồi thường thiệt hại ngoài hợp đồng được hiểu là:",
+        "question": "Phạm vi bảo hiểm của bảo hiểm trách nhiệm dân sự xe cơ giới là: Thiệt hại ngoài hợp đồng về thân thể, tính mạng và tài sản đối với bên thứ ba do xe cơ giới gây ra. Tráchọnhiệm bồi thường thiệt hại ngoài hợp đồng được hiểu là:",
         "options": [
             "Bên có nghĩa vụ dân sự đã cam kết trong hợp đồng mà không thực hiện hoặc thực hiện không đúng nghĩa vụ sẽ phải bồi thường cho bên kia.",
             "Hành vi gây hại không liên quan đến việc thực hiện nghĩa vụ dân sự của bất kỳ hợp đồng nào."
@@ -5834,7 +5834,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo đơn bảo hiểm thiệt hại vật chất xe cơ giới (không có Điều khoản sửa đổi bổ sung), doanh nghiệp bảo hiểm bồi thường cho người được bảo hiểm đối với thiệt hại vật chất xe cơ giới do tai nạn bất ngờ, không lường trước nào sau đây:",
+        "question": "Theo đơn bảo hiểm thiệt hại vật chất xe cơ giới (không có Điều khoản sửa đổi bổ sung), doanh nghiệp bảo hiểm bồi thường cho người được bảo hiểm đối với thiệt hại vật chất xe cơ giới do tai nạn bấtổngờ, không lường trước nào sau đây:",
         "options": [
             "Mất cắp, mất cướp toàn bộ xe (có kết luận của cơ quan Công an).",
             "Mất cắp bộ phận xe.",
@@ -6104,7 +6104,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trong quá trình vận chuyển, do xếp hàng không đúng quy cách nên hàng va đập vào nhau và bị tổn thất. Trường hợp này có thuộc phạm vi bảo hiểm không:",
+        "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trong quá trình vận chuyển, do xếp hàng không đúng quy cáchọnên hàng va đập vào nhau và bị tổn thất. Trường hợp này có thuộc phạm vi bảo hiểm không:",
         "options": [
             "Có.",
             "Không."
@@ -6249,8 +6249,8 @@
         "options": [
             "Bảo hiểm cháy, nổ",
             "Bảo hiểm Hỏa hoạn và các rủi ro đặc biệt",
-            "Bảo hiểm Trách nhiệm dân sự của chủ xe cơ giới",
-            "Bảo hiểm Trách nhiệm nghề nghiệp tư vấn thiết kế xây dựng"
+            "Bảo hiểm Tráchọnhiệm dân sự của chủ xe cơ giới",
+            "Bảo hiểm Tráchọnhiệm nghề nghiệp tư vấn thiết kế xây dựng"
         ],
         "answer": 1,
         "explanation": ""
@@ -6294,7 +6294,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, bảo hiểm bắt buộc không bao gồm:",
         "options": [
-            "Bảo hiểm bắt buộc thất nghiệp",
+            "Bảo hiểm bắt buộc thấtổnghiệp",
             "Bảo hiểm bắt buộc thiệt hại vật chất xe ô tô.",
             "Bảo hiểm cháy, nổ bắt buộc",
             "A, B, C đúng"
@@ -6342,7 +6342,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, một trong các đối tượng bảo hiểm của hợp đồng bảo hiểm tài sản là:",
         "options": [
-            "Trách nhiệm dân sự của người được bảo hiểm",
+            "Tráchọnhiệm dân sự của người được bảo hiểm",
             "Quyền tài sản",
             "Thiệt hại do gián đoạn kinh doanh",
             "B, C đúng"
@@ -6420,9 +6420,9 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, trong hợp đồng bảo hiểm tài sản, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm, cơ sở để xác định số tiền bồi thường mà doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm là:",
         "options": [
-            "Giá thị trường của tài sản được bảo hiểm tại thời điểm, nơi xảy ra tổn thất, mức độ thiệt hại thực tế.",
-            "Giá thị trường của tài sản được bảo hiểm tại thời điểm tham gia bảo hiểm và cức độ thiệt hại thực tế",
-            "Giá trị sổ sách của tài sản được bảo hiểm tại thời điểm tham gia bảo hiểm và cức độ thiệt hại thực tế",
+            "Giá thị trường của tài sản được bảo hiểm tại thời điểm, nơi xảy ra tổn thất, mmức độ thiệt hại thực tế.",
+            "Giá thị trường của tài sản được bảo hiểm tại thời điểm tham gia bảo hiểm và cmức độ thiệt hại thực tế",
+            "Giá trị sổ sách của tài sản được bảo hiểm tại thời điểm tham gia bảo hiểm và cmức độ thiệt hại thực tế",
             "Giá trị thỏa thuận"
         ],
         "answer": 3,
@@ -6480,7 +6480,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, chi phí để xác định mức độ thiệt hại do đối tượng nào sau đây chi trả:",
+        "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, chi phí để xác định mmức độ thiệt hại do đối tượng nào sau đây chi trả:",
         "options": [
             "Doanh nghiệp bảo hiểm",
             "Bên mua bảo hiểm",
@@ -6496,7 +6496,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "\"Trong bảo hiểm tài sản, đơn vị rủi ro (ngôi nhà) được coi là cách biệt về mặt không gian nếu giữa các ngôi nhà đảm bảo tối thiểu một khoảng cách nào đó\". Phát biểu trên là:",
+        "question": "\"Trong bảo hiểm tài sản, đơn vị rủi ro (ngôi nhà) được coi là cách biệt về mặt không gian nếu giữa các ngôi nhà đảm bảo tối thiểu một khoảng cáchọnào đó\". Phát biểu trên là:",
         "options": [
             "Đúng.",
             "Sai."
@@ -6512,7 +6512,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đối với bảo hiểm tài sản, trường hợp người được bảo hiểm từ chối chuyển quyền yêu cầu người thứ ba bồi hoàn, doanh nghiệp bảo hiểm có quyền:",
         "options": [
-            "Khấu trừ số tiền bồi thường tuỳ theo mức độ lỗi của người được bảo hiểm.",
+            "Khấu trừ số tiền bồi thường tuỳ theo mmức độ lỗi của người được bảo hiểm.",
             "Hủy bỏ hợp đồng bảo hiểm.",
             "Trực tiếp yêu cầu người thứ ba bồi thường",
             "A, C đúng."
@@ -6530,7 +6530,7 @@
         "options": [
             "Có.",
             "Không.",
-            "Không, trừ khi thiệt hại xảy ra tiếp theo do một nguyên nhân khác không bị loại trừ trong Quy tắc bảo hiểm này gây ra."
+            "Không, trừ khi thiệt hại xảy ra tiếp theo do mộtổnguyên nhân khác không bị loại trừ trong Quy tắc bảo hiểm này gây ra."
         ],
         "answer": 2,
         "explanation": ""
@@ -6574,7 +6574,7 @@
         "options": [
             "Công trình xây dựng, lắp đặt",
             "Tài sản trên và xung quanh công trường thuộc quyền sở hữu, chăm sóc của người được bảo hiểm.",
-            "Trách nhiệm đối với người thứ ba về người và tài sản.",
+            "Tráchọnhiệm đối với người thứ ba về người và tài sản.",
             "B, C đúng",
             "A, B, C đúng."
         ],
@@ -6603,7 +6603,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Chọn phương án đúng nhất: Cơ sở giải quyết bồi thường đối với Phần II- Trách nhiệm đối với bên thứ ba trong Đơn bảo hiểm mọi rủi ro xây dựng, lắp đặt (CAR/EAR) của nhà tái bảo hiểm Munich Re là:",
+        "question": "Chọn phương án đúng nhất: Cơ sở giải quyết bồi thường đối với Phần II- Tráchọnhiệm đối với bên thứ ba trong Đơn bảo hiểm mọi rủi ro xây dựng, lắp đặt (CAR/EAR) của nhà tái bảo hiểm Munich Re là:",
         "options": [
             "Thiệt hại về người và tài sản đối với bên thứ ba là hậu quả của hành vi bất cẩn/ sai sót mà người được bảo hiểm phải chịu trách nhiệm theo quy định của pháp luật",
             "Phải có thiệt hại về tài sản và/hoặc người.",
@@ -6634,7 +6634,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo quy tắc bảo hiểm mọi rủi ro xây dựng/lắp đặt (CAR/EAR) của nhà tái bảo hiểm Munich Re (không có thỏa thuận đặc biệt theo điều khoản bổ sung): Trong khi thi công công trình, khu nhà dân bên cạnh bất ngờ sụp đổ do rung lắc trong quá trình thi công của bộ phận chống đỡ công trình. Tổn thất khu nhà dân có thuộc trách nhiệm bảo hiểm không?",
+        "question": "Theo quy tắc bảo hiểm mọi rủi ro xây dựng/lắp đặt (CAR/EAR) của nhà tái bảo hiểm Munich Re (không có thỏa thuận đặc biệt theo điều khoản bổ sung): Trong khi thi công công trình, khu nhà dân bên cạnh bấtổngờ sụp đổ do rung lắc trong quá trình thi công của bộ phận chống đỡ công trình. Tổn thất khu nhà dân có thuộc trách nhiệm bảo hiểm không?",
         "options": [
             "Có",
             "Không"
@@ -6722,7 +6722,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Dự án X được thi công bởi 2 Nhà thầu A và B; dự án được bảo hiểm theo quy tắc bảo hiểm mọi rủi ro xây dựng CAR của nhà tái bảo hiểm Munich Re (kèm Điều khoản SĐBS 002 – Trách nhiệm chéo) gồm: Phần I – Tổn thất vật chất: Giá trị công trình; xe cẩu nhà thầu A Phần II – Trách nhiệm đối với bên thứ ba Trong quá trình thi công, xe cẩu của nhà thầu A bất ngờ bị đổ và đồng thời, gây tổn thất cho máy xúc nhà thầu B, nhà dân cạnh công trường và khách tham quan công trình. Những tổn thất nào sau đây không thuộc trách nhiệm bảo hiểm:",
+        "question": "Dự án X được thi công bởi 2 Nhà thầu A và B; dự án được bảo hiểm theo quy tắc bảo hiểm mọi rủi ro xây dựng CAR của nhà tái bảo hiểm Munich Re (kèm Điều khoản SĐBS 002 – Tráchọnhiệm chéo) gồm: Phần I – Tổn thất vật chất: Giá trị công trình; xe cẩu nhà thầu A Phần II – Tráchọnhiệm đối với bên thứ ba Trong quá trình thi công, xe cẩu của nhà thầu A bấtổngờ bị đổ và đồng thời, gây tổn thất cho máy xúc nhà thầu B, nhà dân cạnh công trường và khách tham quan công trình. Những tổn thấtổnào sau đây không thuộc trách nhiệm bảo hiểm:",
         "options": [
             "Tổn thất hư hỏng xe cẩu của nhà thầu A",
             "Tổn thất hư hỏng máy xúc của nhà thầu B",
@@ -6771,7 +6771,7 @@
         ],
         "question": "Tài sản nào sau đây được bảo hiểm theo đơn bảo hiểm \"Mọi rủi ro tài sản\" của Hiệp hội bảo hiểm Vương quốc Anh (ABI):",
         "options": [
-            "Hệ thống thoát nước của bể bơi.",
+            "Hệ thống thoátổnước của bể bơi.",
             "Giếng.",
             "Cây cảnh.",
             "Nhà xưởng, máy móc, thiết bị."
@@ -6909,7 +6909,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo đơn bảo hiểm \"Hoả hoạn và các rủi ro đặc biệt\" của Hiệp hội bảo hiểm Vương quốc Anh (ABI), nếu tham gia bảo hiểm rủi ro A, H thì nguyên nhân gây ra tổn thất nào sau đây thuộc phạm vi bảo hiểm:",
+        "question": "Theo đơn bảo hiểm \"Hoả hoạn và các rủi ro đặc biệt\" của Hiệp hội bảo hiểm Vương quốc Anh (ABI), nếu tham gia bảo hiểm rủi ro A, H thì nguyên nhân gây ra tổn thấtổnào sau đây thuộc phạm vi bảo hiểm:",
         "options": [
             "Tổn thất do nước tràn từ các bể chứa nước.",
             "Tổn thất do nước từ đường ống dẫn nước.",
@@ -7007,7 +7007,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đối với hợp đồng bảo hiểm trách nhiệm, trong phạm vi giới hạn trách nhiệm bảo hiểm, doanh nghiệp bảo hiểm có trách nhiệm chi trả cho người được bảo hiểm các khoản tiền nào sau đây:",
         "options": [
-            "Khoản tiền mà theo quy định của pháp luật người được bảo hiểm có trách nhiệm bồi thường cho người thứ ba.",
+            "Khoản tiền mà theo quy định của pháp luậtổngười được bảo hiểm có trách nhiệm bồi thường cho người thứ ba.",
             "Các chi phí liên quan đến việc giải quyết tranh chấp về trách nhiệm đối với người thứ ba và lãi phải trả cho người thứ ba do người được bảo hiểm chậm trả tiền bồi thường theo chỉ dẫn của doanh nghiệp bảo hiểm.",
             "A, B đúng",
             "A, B sai"
@@ -7054,9 +7054,9 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đối tượng bảo hiểm của hợp đồng bảo hiểm trách nhiệm là:",
         "options": [
-            "Trách nhiệm dân sự của người được bảo hiểm đối với doanh nghiệp bảo hiểm theo quy định của pháp luật.",
-            "Trách nhiệm dân sự của người được bảo hiểm đối với bên mua bảo hiểm theo quy định của pháp luật.",
-            "Trách nhiệm dân sự của người được bảo hiểm đối với người thứ ba theo quy định của pháp luật.",
+            "Tráchọnhiệm dân sự của người được bảo hiểm đối với doanh nghiệp bảo hiểm theo quy định của pháp luật.",
+            "Tráchọnhiệm dân sự của người được bảo hiểm đối với bên mua bảo hiểm theo quy định của pháp luật.",
+            "Tráchọnhiệm dân sự của người được bảo hiểm đối với người thứ ba theo quy định của pháp luật.",
             "A, B, C đúng"
         ],
         "answer": 2,
@@ -7101,7 +7101,7 @@
         ],
         "question": "Theo pháp luật về hoạt động kinh doanh bảo hiểm, phát biểu nào sau đây đúng nhất về giới hạn trách nhiệm bảo hiểm trong bảo hiểm trách nhiệm:",
         "options": [
-            "Trong phạm vi giới hạn trách nhiệm bảo hiểm, doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm những khoản tiền mà theo quy định của pháp luật người được bảo hiểm có trách nhiệm bồi thường cho người thứ ba.",
+            "Trong phạm vi giới hạn trách nhiệm bảo hiểm, doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm những khoản tiền mà theo quy định của pháp luậtổngười được bảo hiểm có trách nhiệm bồi thường cho người thứ ba.",
             "Doanh nghiệp bảo hiểm phải trả các cho người được bảo hiểm các chi phí liên quan đến việc giải quyết tranh chấp về trách nhiệm đối với người thứ ba.",
             "Tổng số tiền bồi thường của doanh nghiệp bảo hiểm không vượt quá giới hạn trách nhiệm bảo hiểm, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm.",
             "A, B, C đúng.",
@@ -7166,7 +7166,7 @@
         ],
         "question": "Trong bảo hiểm trách nhiệm nghề nghiệp cho kỹ sư, tư vấn xây dựng, doanh nghiệp bảo hiểm sẽ bồi thường:",
         "options": [
-            "Tổn thất về tài sản và thương tật của người thứ ba ngoài phạm vi công trình do bị tai nạn bất ngờ trong khi thi công công trình.",
+            "Tổn thất về tài sản và thương tật của người thứ ba ngoài phạm vi công trình do bị tai nạn bấtổngờ trong khi thi công công trình.",
             "Tai nạn lao động của người lao động do bất cẩn trong khi thi công trên công trường.",
             "Thiệt hại về tài sản của công trình do lỗi thiết kế của người được bảo hiểm.",
             "Tổn thất tài sản do nguyên vật liệu kém chất lượng và tay nghề kém"
@@ -7198,7 +7198,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, trong bảo hiểm trách nhiệm, doanh nghiệp bảo hiểm không phải trả cho người được bảo hiểm khoản tiền nào sau đây:",
         "options": [
-            "Khoản tiền mà theo quy định của pháp luật người được bảo hiểm có trách nhiệm bồi thường cho người thứ ba",
+            "Khoản tiền mà theo quy định của pháp luậtổngười được bảo hiểm có trách nhiệm bồi thường cho người thứ ba",
             "Chi phí liên quan đến việc giải quyết tranh chấp về trách nhiệm đối với người thứ ba",
             "Lãi phải trả cho người thứ ba do người được bảo hiểm chậm trả tiền bồi thường theo chỉ dẫn của doanh nghiệp bảo hiểm",
             "Khoản thiệt hại do bên thứ ba gây ra cho bên mua bảo hiểm"
@@ -7228,7 +7228,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Nhà máy sản xuất ổ cắm điện và biến áp gia đình mua bảo hiểm trách nhiệm công cộng và bảo hiểm trách nhiệm sản phẩm. Khách hàng A đến thăm phòng triển lãm sản phẩm tại nhà máy. Trong quá trình xem hàng và thao tác trên sản phẩm, khách hàng bị điện giật do sản phẩm bị rò điện. Trách nhiệm pháp lý phát sinh của nhà máy sản xuất đối với khách hàng thuộc:",
+        "question": "Nhà máy sản xuất ổ cắm điện và biến áp gia đình mua bảo hiểm trách nhiệm công cộng và bảo hiểm trách nhiệm sản phẩm. Khách hàng A đến thăm phòng triển lãm sản phẩm tại nhà máy. Trong quá trình xem hàng và thao tác trên sản phẩm, khách hàng bị điện giật do sản phẩm bị rò điện. Tráchọnhiệm pháp lý phát sinh của nhà máy sản xuất đối với khách hàng thuộc:",
         "options": [
             "Hợp đồng bảo hiểm trách nhiệm công cộng.",
             "Hợp đồng bảo hiểm trách nhiệm sản phẩm.",
@@ -7288,7 +7288,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Chọn phương án đúng nhất: Thuật ngữ \"Sản Phẩm\" trong bảo hiểm trách nhiệm sản phẩm được hiểu là:",
+        "question": "Chọn phương án đúng nhất: Thuậtổngữ \"Sản Phẩm\" trong bảo hiểm trách nhiệm sản phẩm được hiểu là:",
         "options": [
             "Hàng hóa (bao gồm thùng/hộp chứa hàng, bao bì, hướng dẫn sử dụng) đã được bán, cung cấp hoặc sửa chữa, thay thế, bảo hành bởi người được bảo hiểm.",
             "Hàng hóa đã rời khỏi sự kiểm soát của người được bảo hiểm.",
@@ -7307,10 +7307,10 @@
         ],
         "question": "Trường hợp nào sau đây thuộc phạm vi bảo hiểm của hợp đồng bảo hiểm trách nhiệm sản phẩm tiêu chuẩn:",
         "options": [
-            "Trách nhiệm dân sự của người được bảo hiểm về việc đảm bảo sản phẩm hoạt động tốt và không gây thiệt hại cho người sử dụng.",
-            "Trách nhiệm dân sự của người được bảo hiểm đối với việc thu hồi sản phẩm bị lỗi mà người được bảo hiểm cung cấp.",
-            "Trách nhiệm dân sự của người được bảo hiểm đối với ô nhiễm môi trường do sản phẩm mà người được bảo hiểm cung cấp bị lỗi gây ra.",
-            "Trách nhiệm dân sự của người được bảo hiểm đối với thương tật thân thể và thiệt hại tài sản bất ngờ phát sinh với người sử dụng sản phẩm do lỗi của sản phẩm mà người được bảo hiểm cung cấp gây ra."
+            "Tráchọnhiệm dân sự của người được bảo hiểm về việc đảm bảo sản phẩm hoạt động tốt và không gây thiệt hại cho người sử dụng.",
+            "Tráchọnhiệm dân sự của người được bảo hiểm đối với việc thu hồi sản phẩm bị lỗi mà người được bảo hiểm cung cấp.",
+            "Tráchọnhiệm dân sự của người được bảo hiểm đối với ô nhiễm môi trường do sản phẩm mà người được bảo hiểm cung cấp bị lỗi gây ra.",
+            "Tráchọnhiệm dân sự của người được bảo hiểm đối với thương tật thân thể và thiệt hại tài sản bấtổngờ phát sinh với người sử dụng sản phẩm do lỗi của sản phẩm mà người được bảo hiểm cung cấp gây ra."
         ],
         "answer": 3,
         "explanation": ""
@@ -7325,7 +7325,7 @@
         "options": [
             "Gia súc không chịu ăn thức ăn của công ty sản xuất.",
             "Gia súc không tăng cân như thông báo của công ty sản xuất.",
-            "Hàm lượng protein trong bao thức ăn thấp hơn rất nhiều so với công thức được ghi trên bao bì, tuy nhiên không gây bệnh tật cho gia súc.",
+            "Hàm lượng protein trong bao thức ăn thấp hơn rấtổnhiều so với công thức được ghi trên bao bì, tuy nhiên không gây bệnh tật cho gia súc.",
             "Gia súc bị chết do trong bao thức ăn có sót lại một số mảnh phôi kim loại bén rơi ra từ máy trộn thức ăn của công ty sản xuất."
         ],
         "answer": 3,
@@ -7342,7 +7342,7 @@
             "Bất kỳ lợi ích kinh tế mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất.",
             "Nghĩa vụ thực hiện hợp đồng mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất.",
             "Nghĩa vụ theo pháp luật mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất.",
-            "Trách nhiệm dân sự mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất."
+            "Tráchọnhiệm dân sự mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất."
         ],
         "answer": 3,
         "explanation": ""
@@ -7357,7 +7357,7 @@
         "options": [
             "Các chi phí phát sinh thêm được bảo hiểm theo một hạn mức riêng.",
             "Các chi phí cần thiết và hợp lý nhằm ngăn ngừa hay hạn chế việc giảm doanh thu mà nếu không có các chi phí này thì sự sụt giảm doanh thu có thể đã xảy ra trong thời hạn bồi thường do hậu quả của thiệt hại.",
-            "Các chi phí này không vượt quá số tiền được tính toán bằng cách nhân tỷ lệ lợi nhuận gộp với số sụt giảm doanh thu đã ngăn chặn được.",
+            "Các chi phí này không vượt quá số tiền được tính toán bằng cáchọnhân tỷ lệ lợi nhuận gộp với số sụt giảm doanh thu đã ngăn chặn được.",
             "A, C đúng.",
             "B, C đúng."
         ],
@@ -7374,7 +7374,7 @@
         "options": [
             "Mức giảm doanh thu do hậu quả của thiệt hại gây ra = Doanh thu tiêu chuẩn – Doanh thu thực tế thực hiện tính đến thời điểm tổn thất.",
             "Mức giảm doanh thu do hậu quả của thiệt hại gây ra = Doanh thu tiêu chuẩn – Doanh thu thực tế thực hiện trong thời hạn bồi thường.",
-            "Mức giảm doanh thu do hậu quả của thiệt hại gây ra = Doanh thu kế hoạch năm tài chính – Doanh thu thực tế thực hiện tính đến thời điểm tổn thất."
+            "Mức giảm doanh thu do hậu quả của thiệt hại gây ra = Doanh thu kế hoạchọnăm tài chính – Doanh thu thực tế thực hiện tính đến thời điểm tổn thất."
         ],
         "answer": 1,
         "explanation": ""
@@ -7500,9 +7500,9 @@
         "question": "Chọn phương án đúng nhất về hoạt động đại lý bảo hiểm theo Luật Kinh doanh bảo hiểm:",
         "options": [
             "Tư vấn sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
-            "Tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
-            "Tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
-            "Tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm."
+            "Tư vấn sản phẩm bảo hiểm; gGiới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
+            "Tư vấn sản phẩm bảo hiểm; gGiới thiệu sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
+            "Tư vấn sản phẩm bảo hiểm; gGiới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm."
         ],
         "answer": 1,
         "explanation": ""
@@ -7515,9 +7515,9 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, hoạt động đại lý bảo hiểm bao gồm hoạt động nào sau đây:",
         "options": [
-            "Tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
-            "Giới thiệu, chào bán bảo hiểm, giám định bảo hiểm, trả tiền bảo hiểm.",
-            "Giới thiệu, chào bán bảo hiểm, giải quyết bồi thường bảo hiểm.",
+            "Tư vấn sản phẩm bảo hiểm; gGiới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
+            "GGiới thiệu, chào bán bảo hiểm, giám định bảo hiểm, trả tiền bảo hiểm.",
+            "GGiới thiệu, chào bán bảo hiểm, giải quyết bồi thường bảo hiểm.",
             "A, B, C đúng."
         ],
         "answer": 0,
@@ -7533,7 +7533,7 @@
         "options": [
             "Sửa đổi, bổ sung quy tắc, điều khoản bảo hiểm cho phù hợp với tình hình thực tế của bên mua bảo hiểm",
             "Giảm phí bảo hiểm để khuyến khích bên mua bảo hiểm tham gia bảo hiểm.",
-            "Giới thiệu, chào bán sản phẩm bảo hiểm.",
+            "GGiới thiệu, chào bán sản phẩm bảo hiểm.",
             "Giám định tổn thất."
         ],
         "answer": 2,
@@ -7547,7 +7547,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đại lý bảo hiểm được thực hiện các hoạt động nào sau đây theo ủy quyền của doanh nghiệp bảo hiểm:",
         "options": [
-            "Tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm.",
+            "Tư vấn sản phẩm bảo hiểm; gGiới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm.",
             "Thay mặt doanh nghiệp bảo hiểm ký kết hợp đồng với bên mua bảo hiểm.",
             "A, B đúng."
         ],
@@ -7578,8 +7578,8 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, hoạt động đại lý bảo hiểm là:",
         "options": [
-            "Một hoặc một số hoạt động theo ủy quyền của doanh nghiệp bảo hiểm, bao gồm: tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
-            "Một hoặc một số hoạt động theo ủy quyền của bên mua bảo hiểm, bao gồm: tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
+            "Một hoặc một số hoạt động theo ủy quyền của doanh nghiệp bảo hiểm, bao gồm: tư vấn sản phẩm bảo hiểm; gGiới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
+            "Một hoặc một số hoạt động theo ủy quyền của bên mua bảo hiểm, bao gồm: tư vấn sản phẩm bảo hiểm; gGiới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
             "A, B đúng"
         ],
         "answer": 0,
@@ -7624,7 +7624,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai khi nói về hoạt động mà đại lý bảo hiểm có thể được doanh nghiệp bảo hiểm ủy quyền thực hiện:",
         "options": [
-            "Giới thiệu, chào bán sản phẩm bảo hiểm.",
+            "GGiới thiệu, chào bán sản phẩm bảo hiểm.",
             "Thu xếp việc giao kết hợp đồng bảo hiểm.",
             "Thu phí bảo hiểm.",
             "Thay mặt doanh nghiệp bảo hiểm ký kết hợp đồng bảo hiểm với bên mua bảo hiểm"
@@ -7688,7 +7688,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đại lý bảo hiểm không được doanh nghiệp bảo hiểm uỷ quyền tiến hành hoạt động nào dưới đây:",
         "options": [
-            "Giới thiệu, chào bán sản phẩm bảo hiểm.",
+            "GGiới thiệu, chào bán sản phẩm bảo hiểm.",
             "Thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm.",
             "Đánh giá rủi ro bảo hiểm.",
             "Thu phí bảo hiểm."
@@ -7704,7 +7704,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm không được ủy quyền cho đại lý bảo hiểm thực hiện hoạt động nào dưới đây:",
         "options": [
-            "Giới thiệu, chào bán sản phẩm bảo hiểm.",
+            "GGiới thiệu, chào bán sản phẩm bảo hiểm.",
             "Thu xếp giao kết hợp đồng bảo hiểm.",
             "Thu phí bảo hiểm.",
             "Thu xếp tái bảo hiểm."
@@ -7752,7 +7752,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây sai:",
         "options": [
-            "Đại lý bảo hiểm có nghĩa vụ tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm",
+            "Đại lý bảo hiểm có nghĩa vụ tư vấn, gGiới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm",
             "Đại lý bảo hiểm có quyền khuyến mại khách hàng dưới hình thức như giảm phí bảo hiểm, hoàn phí bảo hiểm",
             "Đại lý bảo hiểm có nghĩa vụ tham dự các khóa đào tạo, cập nhật kiến thức do doanh nghiệp bảo hiểm tổ chức",
             "Đại lý bảo hiểm được doanh nghiệp bảo hiểm ủy quyền thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm"
@@ -8084,7 +8084,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm có nghĩa vụ nào sau đây trong hoạt động đại lý bảo hiểm:",
         "options": [
-            "Kiểm tra, giám sát việc thực hiện hợp đồng đại lý bảo hiểm, đánh giá chất lượng tư vấn, giới thiệu sản phẩm bảo hiểm của đại lý bảo hiểm và nhân viên trong tổ chức hoạt động đại lý bảo hiểm",
+            "Kiểm tra, giám sát việc thực hiện hợp đồng đại lý bảo hiểm, đánh giá chất lượng tư vấn, gGiới thiệu sản phẩm bảo hiểm của đại lý bảo hiểm và nhân viên trong tổ chức hoạt động đại lý bảo hiểm",
             "Trường hợp đại lý bảo hiểm vi phạm hợp đồng đại lý bảo hiểm gây thiệt hại đến quyền, lợi ích hợp pháp của bên mua bảo hiểm thì doanh nghiệp bảo hiểm vẫn phải chịu trách nhiệm thực hiện các nghĩa vụ theo thỏa thuận trong hợp đồng bảo hiểm do đại lý bảo hiểm thu xếp giao kết",
             "A, B đúng"
         ],
@@ -8276,7 +8276,7 @@
         "options": [
             "Hưởng hoa hồng đại lý bảo hiểm, thưởng, hỗ trợ đại lý bảo hiểm theo thỏa thuận trong hợp đồng đại lý bảo hiểm",
             "Thực hiện cam kết trong hợp đồng bảo hiểm được ký giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm.",
-            "Tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
+            "Tư vấn, gGiới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
             "Thực hiện nghĩa vụ trong hợp đồng đại lý bảo hiểm."
         ],
         "answer": 1,
@@ -8306,7 +8306,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây là sai về nghĩa vụ của đại lý bảo hiểm:",
         "options": [
-            "Giới thiệu, chào bán sản phẩm bảo hiểm",
+            "GGiới thiệu, chào bán sản phẩm bảo hiểm",
             "Cung cấp thông tin về sản phẩm bảo hiểm một cách đầy đủ, chính xác cho bên mua bảo hiểm",
             "Tự kê khai thông tin cho bên mua bảo hiểm mà không cần có sự đồng ý của bên mua bảo hiểm",
             "A, B đúng"
@@ -8354,7 +8354,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, đại lý bảo hiểm có các nghĩa vụ nào sau đây:",
         "options": [
-            "Tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
+            "Tư vấn, gGiới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm.",
             "Thực hiện nghĩa vụ trong hợp đồng đại lý bảo hiểm.",
             "Chịu sự kiểm tra, giám sát của doanh nghiệp bảo hiểm",
             "A, B, C đúng."
@@ -8437,7 +8437,7 @@
             "Thực hiện nghĩa vụ trong hợp đồng đại lý bảo hiểm.",
             "Quyết định chi trả quyền lợi bảo hiểm theo hợp đồng bảo hiểm",
             "Ký quỹ hoặc thế chấp tài sản cho doanh nghiệp bảo hiểm nếu có thỏa thuận trong hợp đồng đại lý bảo hiểm",
-            "Tư vấn, giới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm"
+            "Tư vấn, gGiới thiệu, chào bán sản phẩm bảo hiểm; cung cấp các thông tin về sản phẩm bảo hiểm, doanh nghiệp bảo hiểm đầy đủ, chính xác cho bên mua bảo hiểm"
         ],
         "answer": 1,
         "explanation": ""
@@ -8450,7 +8450,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm có quyền:",
         "options": [
-            "Thu phí bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm",
+            "Thu phí bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm",
             "Yêu cầu bên mua bảo hiểm cung cấp đầy đủ, trung thực mọi thông tin có liên quan đến việc giao kết và thực hiện hợp đồng bảo hiểm",
             "Bảo mật thông tin do bên mua bảo hiểm, người được bảo hiểm cung cấp",
             "A, B đúng."
@@ -8467,7 +8467,7 @@
         "question": "Trong quá trình thực hiện hợp đồng bảo hiểm, doanh nghiệp bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm trong trường hợp nào sau đây:",
         "options": [
             "Bên mua bảo hiểm cố ý cung cấp không đầy đủ thông tin nhằm giao kết hợp đồng bảo hiểm để được bồi thường, trả tiền bảo hiểm.",
-            "Bên mua bảo hiểm cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm để được bồi thường, trả tiền bảo hiểm.",
+            "Bên mua bảo hiểm cung cấp thông tin sai sự thậtổnhằm giao kết hợp đồng bảo hiểm để được bồi thường, trả tiền bảo hiểm.",
             "A, B đúng.",
             "A, B sai."
         ],
@@ -8546,8 +8546,8 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào sau đây sai về quyền và nghĩa vụ của doanh nghiệp bảo hiểm:",
         "options": [
-            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp không thuộc phạm vi trách nhiệm bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm",
-            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp loại trừ trách nhiệm bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm.",
+            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp không thuộc phạm vi trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm",
+            "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp loại trừ trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
             "Doanh nghiệp bảo hiểm không được áp dụng loại trừ trách nhiệm bảo hiểm về việc chậm thông báo trong mọi trường hợp",
             "A, B đúng."
         ],
@@ -8627,7 +8627,7 @@
         "question": "Theo Luật Kinh doanh bảo hiểm, bên mua bảo hiểm có quyền:",
         "options": [
             "Yêu cầu doanh nghiệp bảo hiểm cung cấp bản yêu cầu bảo hiểm, bảng câu hỏi liên quan đến rủi ro được bảo hiểm, đối tượng bảo hiểm, quy tắc, điều kiện, điều khoản bảo hiểm và giải thích các điều kiện, điều khoản bảo hiểm.",
-            "Hủy bỏ hợp đồng bảo hiểm trong trường hợp doanh nghiệp bảo hiểm cố ý cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm.",
+            "Hủy bỏ hợp đồng bảo hiểm trong trường hợp doanh nghiệp bảo hiểm cố ý cung cấp thông tin sai sự thậtổnhằm giao kết hợp đồng bảo hiểm.",
             "Yêu cầu doanh nghiệp bảo hiểm bồi thường, trả tiền bảo hiểm khi xảy ra sự kiện bảo hiểm",
             "A, B, C đúng."
         ],
@@ -8925,7 +8925,7 @@
         "question": "Theo đơn bảo hiểm mọi rủi ro xây dựng, lắp đặt (CAR/EAR) của nhà tái bảo hiểm Munich Re, tài sản trên và xung quanh khu vực công trường thuộc quyền sở hữu, quản lý, chăm sóc của người được bảo hiểm có thể được bảo hiểm theo phần nào trong đơn? (có điều chỉnh đáp án)",
         "options": [
             "Phần I – Phần tổn thất vật chất.",
-            "Phần II – Trách nhiệm đối với bên thứ ba.",
+            "Phần II – Tráchọnhiệm đối với bên thứ ba.",
             "A, B đúng."
         ],
         "answer": 0,
@@ -9091,7 +9091,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Trong bảo hiểm nhân thọ, bảo hiểm sức khỏe, tai nạn là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan, xảy ra do tác động của một lực, một vật bất ngờ từ bên ngoài, không chủ động và ngoài ý muốn lên cơ thể của người được bảo hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra thương tật hoặc tử vong cho người được bảo hiểm trong vòng ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó.",
+        "question": "Trong bảo hiểm nhân thọ, bảo hiểm sức khỏe, tai nạn là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan, xảy ra do tác động của một lực, một vật bấtổngờ từ bên ngoài, không chủ động và ngoài ý muốn lên cơ thể của người được bảo hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra thương tật hoặc tử vong cho người được bảo hiểm trong vòng ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó.",
         "options": [
             "90 ngày.",
             "120 ngày.",
@@ -9301,7 +9301,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Văn phòng đại diện nước ngoài tại Việt Nam có ít nhất bao nhiêu Đại lý Bảo hiểm?",
+        "question": "Văn phòng đại diện nước ngoài tại Việt Nam có ítổnhất bao nhiêu Đại lý Bảo hiểm?",
         "options": [
             "100",
             "200",
@@ -9319,8 +9319,8 @@
         ],
         "question": "Rủi ro ngẫu nhiên là gì?",
         "options": [
-            "Bất ngờ",
-            "Không lường trước được về không gian, thời gian, cũng như mức độ nghiêm trọng",
+            "Bấtổngờ",
+            "Không lường trước được về không gian, thời gian, cũng như mmức độ nghiêm trọng",
             "Cả A và B đều đúng"
         ],
         "answer": 2,
@@ -9413,7 +9413,7 @@
         "options": [
             "Công trình, hạng mục công trình có ảnh hưởng lớn đến an toàn, lợi ích cộng đồng",
             "Công trình đầu tư xây dựng có ảnh hưởng xấu đến môi trường",
-            "Công trình kỹ thuật nông nghiệp",
+            "Công trình kỹ thuậtổnông nghiệp",
             "Giao thông công cộng"
         ],
         "answer": 2,
@@ -9473,7 +9473,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Bảo hiểm trách nhiệm dân sự bắt buộc xe cơ giới, doanh nghiệp bảo hiểm theo quy định phải có thời hạn giám định tổn thất xác định nguyên nhân và mức độ tổn thất làm căn cứ giải quyết bồi thường bảo hiểm:",
+        "question": "Bảo hiểm trách nhiệm dân sự bắt buộc xe cơ giới, doanh nghiệp bảo hiểm theo quy định phải có thời hạn giám định tổn thất xác định nguyên nhân và mmức độ tổn thất làm căn cứ giải quyết bồi thường bảo hiểm:",
         "options": [
             "Trong vòng 1h",
             "Trong vòng 24h",
@@ -9492,7 +9492,7 @@
         "question": "Trong bảo hiểm tài sản đơn vị rủi ro được coi là cách biệt",
         "options": [
             "Về mặt cấu trúc nếu ngôi nhà, bộ phận nhà hoặc kho được ngăn cách bằng tường ngăn cháy",
-            "Về mặt không gian nếu giữa các ngôi nhà hoặc kho ngoài trời bằng vật liệu không cháy đảm bảo tối thiểu một khoảng cách nào đó",
+            "Về mặt không gian nếu giữa các ngôi nhà hoặc kho ngoài trời bằng vật liệu không cháy đảm bảo tối thiểu một khoảng cáchọnào đó",
             "A, B đúng",
             "A, B sai"
         ],
@@ -9694,7 +9694,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trong quá trình vận chuyển, do xếp hàng không đúng quy cách nên hàng va đập vào nhau và bị tổn thất. Trường hợp này có thuộc phạm vi bảo hiểm không:",
+        "question": "Theo đơn Bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe: Trong quá trình vận chuyển, do xếp hàng không đúng quy cáchọnên hàng va đập vào nhau và bị tổn thất. Trường hợp này có thuộc phạm vi bảo hiểm không:",
         "options": [
             "Có.",
             "Không"
@@ -9773,7 +9773,7 @@
         ],
         "question": "Theo Luật Kinh doanh bảo hiểm, một trong các đối tượng bảo hiểm của hợp đồng bảo hiểm tài sản là:",
         "options": [
-            "Trách nhiệm dân sự của người được bảo hiểm",
+            "Tráchọnhiệm dân sự của người được bảo hiểm",
             "Quyền tài sản",
             "Thiệt hại do gián đoạn kinh doanh",
             "B, C đúng"
@@ -9833,7 +9833,7 @@
         "sets": [
             "detonghop"
         ],
-        "question": "Tại thời điểm tổn thất, nếu số tiền bảo hiểm của máy móc thiết bị chủ thầu (CPM) theo quy tắc bảo hiểm của nhà tái báo hiểu Munich Re nhỏ hơn giá trị thay thế mới thì phương án bồi thường nào sau đây đúng (Giả sử máy móc thiết bị hư hỏng và không có giá trị thu hồi):",
+        "question": "Tại thời điểm tổn thất, nếu số tiền bảo hiểm của máy móc thiết bị chủ thầu (CPM) theo quy tắc bảo hiểm của nhà tái bảo hiểm Munich Re nhỏ hơn giá trị thay thế mới thì phương án bồi thường nào sau đây đúng (Giả sử máy móc thiết bị hư hỏng và không có giá trị thu hồi):",
         "options": [
             "Số tiền bồi thường = Chi phí khắc phục – Khấu hao tài sản",
             "Số tiền bồi thường = (Chi phí khắc phục x (Số tiền bảo hiểm/ Giá trị thay thế mới của tài sản được bảo hiểm) – Mức miễn thường có khấu trừ"
